@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.8.11)  12 AUG 2025 15:26
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.8.12)  12 AUG 2025 15:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -6,7 +6,7 @@ entering extended mode
 **./main.tex
 (main.tex
 LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-07-19>
+L3 programming layer <2025-07-20>
 (C:\Users\NBODT\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
 (C:\Users\NBODT\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
@@ -55,7 +55,7 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 (C:\Users\NBODT\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
 e.sty
 (C:\Users\NBODT\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2025-07-19 L3 programming layer (loader) 
+Package: expl3 2025-07-20 L3 programming layer (loader) 
 
 (C:\Users\NBODT\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xet
 ex.def
@@ -306,14 +306,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [1] (main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-07-19>
+L3 programming layer <2025-07-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4293 strings out of 403265
- 117099 string characters out of 5461230
- 552926 words of memory out of 5000000
- 32699 multiletter control sequences out of 15000+600000
+ 4293 strings out of 403250
+ 117099 string characters out of 5460888
+ 553224 words of memory out of 5000000
+ 32714 multiletter control sequences out of 15000+600000
  629761 words of font info for 74 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  73i,5n,93p,249b,248s stack positions out of 10000i,1000n,20000p,200000b,200000s
