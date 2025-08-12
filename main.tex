@@ -40,12 +40,15 @@
 \DeclareLanguageMapping{english}{english-apa}
 \addbibresource{references.bib}
 
-% Thai page numbering - simplified approach
-\newcommand{\thaipage}[1]{%
+% Thai alphabet page numbering - complete implementation
+\makeatletter
+\def\@thaialph#1{%
   \ifcase#1\or ก\or ข\or ค\or ง\or จ\or ฉ\or ช\or ซ\or ฌ\or ญ\or
   ฎ\or ฏ\or ฐ\or ฑ\or ฒ\or ณ\or ด\or ต\or ถ\or ท\or ธ\or น\or บ\or ป\or ผ\or ฝ\or พ\or ฟ\or ภ\or ม\or
-  ย\or ร\or ล\or ว\or ศ\or ษ\or ส\or ห\or ฬ\or อ\or ฮ\else\arabic{#1}\fi
+  ย\or ร\or ล\or ว\or ศ\or ษ\or ส\or ห\or ฬ\or อ\or ฮ\else\@ctrerr\fi
 }
+\def\thaialph#1{\expandafter\@thaialph\csname c@#1\endcsname}
+\makeatother
 
 % Cover page title setup
 \date{}
@@ -58,7 +61,7 @@
 
 \begin{document}
 
-% ----- Cover Page (matches your previous design) -----
+% ----- Cover Page (no page number) -----
 \maketitle
 \thispagestyle{empty}
 
@@ -81,13 +84,10 @@
 \end{center}
 
 \newpage
-\setcounter{page}{1}
-\renewcommand{\thepage}{\thaipage{\value{page}}}
-\pagestyle{plain}
 
-% ----- Start page numbering with Thai letters -----
+% ----- Start Thai letter page numbering for front matter -----
+\pagenumbering{thaialph}
 \setcounter{page}{1}
-\pagestyle{plain}
 
 % ----- Abstracts -----
 \noindent
@@ -108,40 +108,56 @@ This report presents an in-depth engineering study of multi-functional robots, f
 
 \newpage
 
+% ----- Table of Contents -----
 \tableofcontents
 \newpage
 
-% ----- Main Content -----
-\section{บทนำ}
-หุ่นยนต์อเนกประสงค์ (*Multi-functional Robots*) เป็นเทคโนโลยีที่มีความสำคัญในยุคอุตสาหกรรม 4.0 \parencite{liang2025decoding}
+% ----- Switch to Arabic numbering for main content -----
+\pagenumbering{arabic}
+\setcounter{page}{1}
 
-% Content will be added in next steps
+% ----- Preface -----
+\section*{คำนำ}
+รายงานฉบับนี้มีวัตถุประสงค์เพื่อสังเคราะห์องค์ความรู้เกี่ยวกับหุ่นยนต์อเนกประสงค์ (Polyfunctional Robots) ตั้งแต่กรอบนิยาม พัฒนาการทางประวัติศาสตร์ สถาปัตยกรรมและระบบควบคุม ไปจนถึงการประยุกต์ใช้ในภาคอุตสาหกรรม การแพทย์ การกู้ภัย อวกาศ และภาคเกษตร ตลอดจนประเด็นด้านเศรษฐศาสตร์ จริยธรรม และความปลอดภัย เพื่อเป็นฐานข้อมูลที่เป็นระบบสำหรับการศึกษาและการวิจัยต่อยอด
+
+เนื้อหาอาศัยการทบทวนวรรณกรรมจากหนังสือ วารสาร และรายงานวิชาการที่เชื่อถือได้ พร้อมการวิเคราะห์เชิงเปรียบเทียบ เพื่อชี้ให้เห็นความเหมือน-ความต่างระหว่างหุ่นยนต์อเนกประสงค์ หุ่นยนต์โมดูลาร์ และหุ่นยนต์ที่ปรับเปลี่ยนโครงสร้างได้ด้วยตนเอง ตลอดจนแนวโน้มเทคโนโลยีในอนาคต
+
+{\itshape รายงานนี้มีการใช้เครื่องมือ Generative AI เพื่อช่วยในการสรุปหัวข้อเบื้องต้นและเรียบเรียงข้อความบางส่วน โดยผู้เขียนได้ตรวจสอบและปรับปรุงเนื้อหาทั้งหมดด้วยตนเอง}
+% Content will be expanded in next steps
 
 \section{สถาปัตยกรรมทางวิศวกรรม}
-% Content will be added in next steps
+% Content will be added
 
 \section{วิวัฒนาการเทคโนโลยี}
-% Content will be added in next steps
+% Content will be added
 
 \section{เทคโนโลยีหลักทางวิศวกรรม}
-% Content will be added in next steps
+% Content will be added
 
 \section{การประยุกต์ใช้ทางวิศวกรรม}
-% Content will be added in next steps
+% Content will be added
 
 \section{ความท้าทายทางเทคนิค}
-% Content will be added in next steps
+% Content will be added
 
 \section{ความปลอดภัยและมาตรฐาน}
-% Content will be added in next steps
+% Content will be added
 
 \section{ทิศทางการพัฒนาทางวิศวกรรม}
-% Content will be added in next steps
+% Content will be added
 
 \section{สรุป}
-% Content will be added in next steps
+% Content will be added
 
 % ----- Bibliography -----
 \printbibliography[title=เอกสารอ้างอิง]
+
+% ----- Appendices (optional) -----
+\appendix
+\section{ภาคผนวก ก: คำศัพท์เทคนิค}
+% Technical glossary will be added
+
+\section{ภาคผนวก ข: ตารางเปรียบเทียบเทคโนโลยี}
+% Comparison tables will be added
 
 \end{document}
