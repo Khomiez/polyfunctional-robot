@@ -1,0 +1,52 @@
+\documentclass[a4paper]{article}
+\usepackage[left=1in, right=1in, top=1in, bottom=1in]{geometry}
+\usepackage{fontspec}
+\usepackage{graphicx}
+\usepackage{xstring}
+
+\setmainfont{TH Sarabun New}
+\date{}
+\author{}
+\title{
+    \includegraphics[width=1in, height=1in, keepaspectratio]{logo.png}
+    \\[2ex]
+    {\fontsize{32pt}{36pt}\selectfont\textbf{Polyfunctions robot}}
+}
+
+% Thai alphabet for page numbers (short version)
+\newcommand{\thailetters}{กขคงจฉชซฌญฎฏฐฑฒณดตถทธนบปผฝพฟภมยรลวศษสหฬอฮ}
+\newcommand{\thaipage}[1]{\StrChar{\thailetters}{#1}}
+
+\begin{document}
+    \maketitle
+    \thispagestyle{empty}
+
+    \vfill
+    \begin{center}
+        {\fontsize{22pt}{26pt}\selectfont\textbf{
+            นายคมชาญ วิเศษนคร 
+            \\ 63040419-1
+        }}
+    \end{center}
+    \vfill
+
+    \vfill
+    \begin{center}
+        {\fontsize{16pt}{20pt}\selectfont\textbf{
+            รายงานฉบับนี้เป็นส่วนหนึ่งของรายวิชา EN813761 การสัมมนาทางวิศวกรรมคอมพิวเตอร์
+            \\ สาขาวิชาวิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยขอนแก่น
+            \\ ภาคเรียนที่ 1 ปีการศึกษา 2568 
+        }}
+    \end{center}
+
+    \newpage
+    \setcounter{page}{1}
+    \renewcommand{\thepage}{\thaipage{\value{page}}}
+    \pagestyle{plain}
+    \noindent
+    {\centering
+        {\fontsize{18pt}{22pt}\selectfont\textbf{คำนำ}\par}
+    }
+    
+
+\end{document}
