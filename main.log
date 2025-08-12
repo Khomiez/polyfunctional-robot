@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.8.12)  12 AUG 2025 17:05
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.8.12)  12 AUG 2025 17:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -912,36 +912,54 @@ LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
 (Font)              scaled to size 18.0pt on input line 95.
 
-Overfull \hbox (5.18411pt too wide) in paragraph at lines 98--99
-[]\TU/THSarabunNew(0)/m/n/16 รายงานฉบับนี้เป็นการศึกษาเชิงลึกเกี่ยวกับหุ่นยนต์อ
-เนกประสงค์ (Multi-functional Robots) โดยเน้นด้าน-
+Overfull \hbox (9.98412pt too wide) in paragraph at lines 98--99
+[]\TU/THSarabunNew(0)/m/n/16 รายงานฉบับนี้นำเสนอการวิเคราะห์เชิงครอบคลุมเกี่ยวก
+ับหุ่นยนต์อเนกประสงค์ (Multi-functional Robots)
  []
 
 
-Overfull \hbox (68.4241pt too wide) in paragraph at lines 98--99
-\TU/THSarabunNew(0)/m/n/16 และการประยุกต์ใช้ในอุตสาหกรรม ผลการศึกษาแสดงให้เห็นถ
-ึงความก้าวหน้าอย่างมีนัยสำคัญในด้านการออกแบบแบบโมดูลาร์
+Overfull \hbox (8.40813pt too wide) in paragraph at lines 98--99
+\TU/THSarabunNew(0)/m/n/16 เซ็นเซอร์หลายรูปแบบ นอกจากนี้ยังได้สำรวจการประยุกต์ใ
+ช้ในอุตสาหกรรมการผลิต การแพทย์ การบริการ และ-
  []
 
 
-Overfull \hbox (21.81612pt too wide) in paragraph at lines 98--99
-\TU/THSarabunNew(0)/m/n/16 (Multimodal Sensing) รายงานนี้สรุปแนวโน้มการพัฒนาในอ
-นาคตและข้อท้าทายทางเทคนิคที่วิศวกรต้องพิจารณา 
+Overfull \hbox (173.67212pt too wide) in paragraph at lines 98--99
+\TU/THSarabunNew(0)/m/n/16 ภาคการเกษตร ผลการวิเคราะห์แสดงให้เห็นว่าหุ่นยนต์อเนก
+ประสงค์สามารถเพิ่มประสิทธิภาพการทำงานและลดต้นทุนการดำเนินงานได้อย่างมีนัยสำคัญ
  []
 
 
-Overfull \hbox (16.64494pt too wide) in paragraph at lines 107--108
-\TU/THSarabunNew(0)/m/n/16 advancements in modular design, hierarchical control
- systems, and multimodal sensing integration.
+Overfull \hbox (6.61612pt too wide) in paragraph at lines 98--99
+\TU/THSarabunNew(0)/m/n/16 อย่างไรก็ตาม ยังคงมีข้อท้าทายสำคัญในด้านความปลอดภัย 
+มาตรฐานการทำงาน และการยอมรับจากสังคม ราย-
+ []
+
+
+Overfull \hbox (162.72809pt too wide) in paragraph at lines 98--99
+\TU/THSarabunNew(0)/m/n/16 งานนี้สรุปด้วยการเสนอแนวทางการพัฒนาในอนาคตและข้อแนะน
+ำเชิงนโยบายเพื่อส่งเสริมการนำเทคโนโลยีนี้มาใช้ประโยชน์อย่างเหมาะสมและยั่งยืน 
+ []
+
+
+Overfull \hbox (4.64494pt too wide) in paragraph at lines 107--108
+\TU/THSarabunNew(0)/m/n/16 various applications. However, substantial challenge
+s remain in safety protocols, standardization
+ []
+
+
+Overfull \hbox (5.29135pt too wide) in paragraph at lines 111--113
+\TU/THSarabunNew(0)/b/n/16 Keywords: \TU/THSarabunNew(0)/m/n/16 Multi-functiona
+l robots, modular robotics, hierarchical control, industrial automation,
  []
 
 
 
 [1]
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 112.
+(Font)              scaled to size 14.4pt on input line 117.
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
-(Font)              scaled to size 14.4pt on input line 112.
+(Font)              scaled to size 14.4pt on input line 117.
  (main.toc
 \thai@year=\count458
 )
@@ -951,27 +969,27 @@ LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
 
 
 [2]
-Overfull \hbox (7.33612pt too wide) in paragraph at lines 121--122
+Overfull \hbox (7.33612pt too wide) in paragraph at lines 125--126
 \TU/THSarabunNew(0)/m/n/16 รายงานฉบับนี้มีวัตถุประสงค์เพื่อสังเคราะห์องค์ความรู
 ้เกี่ยวกับหุ่นยนต์อเนกประสงค์ (Polyfunctional Robots)
  []
 
 
-Overfull \hbox (6.4641pt too wide) in paragraph at lines 123--124
+Overfull \hbox (6.4641pt too wide) in paragraph at lines 127--128
 []\TU/THSarabunNew(0)/m/n/16 เนื้อหาอาศัยการทบทวนวรรณกรรมจากหนังสือ วารสาร และร
 ายงานวิชาการที่เชื่อถือได้ พร้อมการวิเคราะห์-
  []
 
 
-Overfull \hbox (31.12811pt too wide) in paragraph at lines 123--124
+Overfull \hbox (31.12811pt too wide) in paragraph at lines 127--128
 \TU/THSarabunNew(0)/m/n/16 เชิงเปรียบเทียบ เพื่อชี้ให้เห็นความเหมือน-ความต่างระ
 หว่างหุ่นยนต์อเนกประสงค์ หุ่นยนต์โมดูลาร์ และหุ่นยนต์ที่ปรับ-
  []
 
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/it' will be
-(Font)              scaled to size 16.0pt on input line 125.
+(Font)              scaled to size 16.0pt on input line 129.
 
-LaTeX Warning: Empty bibliography on input line 153.
+LaTeX Warning: Empty bibliography on input line 157.
 
 
 
@@ -989,10 +1007,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  20165 strings out of 403250
  403986 string characters out of 5460888
- 1420110 words of memory out of 5000000
+ 1421110 words of memory out of 5000000
  48406 multiletter control sequences out of 15000+600000
  630233 words of font info for 89 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 73i,5n,93p,726b,5237s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,5n,93p,1080b,5237s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on main.pdf (4 pages).
