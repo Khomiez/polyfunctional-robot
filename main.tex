@@ -1,10 +1,11 @@
 % !TEX TS-program = xelatex
-\documentclass[12pt,a4paper]{article}
-\usepackage[margin=1in]{geometry}
+\documentclass[a4paper]{article}
+\usepackage[left=1in, right=1in, top=1in, bottom=1in]{geometry}
 \usepackage{fontspec}
 \usepackage{polyglossia}
 \setdefaultlanguage{thai}
 \setotherlanguage{english}
+\usepackage{graphicx}
 
 % Font setup for Thai
 \newfontfamily\thaifont{TH Sarabun New}[
@@ -31,7 +32,6 @@
 
 % Essential packages
 \usepackage[hidelinks]{hyperref}
-\usepackage{graphicx}
 \usepackage{booktabs}
 \usepackage{csquotes}
 
@@ -40,37 +40,81 @@
 \DeclareLanguageMapping{english}{english-apa}
 \addbibresource{references.bib}
 
+% Thai page numbering - simplified approach
+\newcommand{\thaipage}[1]{%
+  \ifcase#1\or ก\or ข\or ค\or ง\or จ\or ฉ\or ช\or ซ\or ฌ\or ญ\or
+  ฎ\or ฏ\or ฐ\or ฑ\or ฒ\or ณ\or ด\or ต\or ถ\or ท\or ธ\or น\or บ\or ป\or ผ\or ฝ\or พ\or ฟ\or ภ\or ม\or
+  ย\or ร\or ล\or ว\or ศ\or ษ\or ส\or ห\or ฬ\or อ\or ฮ\else\arabic{#1}\fi
+}
+
+% Cover page title setup
+\date{}
+\author{}
+\title{
+    \includegraphics[width=1in, height=1in, keepaspectratio]{logo.png}
+    \\[2ex]
+    {\fontsize{32pt}{36pt}\selectfont\textbf{Polyfunctions robot}}
+}
+
 \begin{document}
 
-% ----- Cover Page (no page number) -----
+% ----- Cover Page (matches your previous design) -----
+\maketitle
 \thispagestyle{empty}
-\begin{center}
-{\Large รายงานวิชาการ}\\[1em]
-{\huge หุ่นยนต์อเนกประสงค์ (Polyfunctions / Multi-Functional Robots)}\\[1.2em]
-{\Large นายคมชาญ วิเศษนคร}\\
-{\large 63040419-1}\\[1em]
-{\large รายงานฉบับนี้เป็นส่วนหนึ่งของรายวิชา EN813761 การสัมมนาทางวิศวกรรมคอมพิวเตอร์}\\
-{\large สาขาวิชาวิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยขอนแก่น}\\
-{\large ภาคเรียนที่ 1 ปีการศึกษา 2568}\\[2em]
-{\large \today}
-\end{center}
-\clearpage
 
-% ----- Start numbering from here -----
-\pagenumbering{arabic}
+\vfill
+\begin{center}
+    {\fontsize{22pt}{26pt}\selectfont\textbf{
+        นายคมชาญ วิเศษนคร
+        \\ 63040419-1
+    }}
+\end{center}
+\vfill
+
+\vfill
+\begin{center}
+    {\fontsize{16pt}{20pt}\selectfont\textbf{
+        รายงานฉบับนี้เป็นส่วนหนึ่งของรายวิชา EN813761 การสัมมนาทางวิศวกรรมคอมพิวเตอร์
+        \\ สาขาวิชาวิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยขอนแก่น
+        \\ ภาคเรียนที่ 1 ปีการศึกษา 2568
+    }}
+\end{center}
+
+\newpage
+\setcounter{page}{1}
+\renewcommand{\thepage}{\thaipage{\value{page}}}
+\pagestyle{plain}
+
+% ----- Start page numbering with Thai letters -----
+\setcounter{page}{1}
+\pagestyle{plain}
 
 % ----- Abstracts -----
-\section*{บทคัดย่อ}
+\noindent
+{\centering
+    {\fontsize{18pt}{22pt}\selectfont\textbf{บทคัดย่อ}\par}
+}
+
 รายงานฉบับนี้เป็นการศึกษาเชิงลึกเกี่ยวกับหุ่นยนต์อเนกประสงค์ (Multi-functional Robots) โดยเน้นด้านวิศวกรรมและเทคโนโลยี การศึกษาครอบคลุมสถาปัตยกรรมทางวิศวกรรม ระบบควบคุม เทคโนโลยีฮาร์ดแวร์ และการประยุกต์ใช้ในอุตสาหกรรม ผลการศึกษาแสดงให้เห็นถึงความก้าวหน้าอย่างมีนัยสำคัญในด้านการออกแบบแบบโมดูลาร์ (Modular Design) ระบบควบคุมแบบลำดับชั้น (Hierarchical Control) และการรวมเซ็นเซอร์หลายรูปแบบ (Multimodal Sensing) รายงานนี้สรุปแนวโน้มการพัฒนาในอนาคตและข้อท้าทายทางเทคนิคที่วิศวกรต้องพิจารณา
 
-\section*{Abstract (English)}
+\vspace{1em}
+
+\noindent
+{\centering
+    {\fontsize{18pt}{22pt}\selectfont\textbf{Abstract (English)}\par}
+}
+
 This report presents an in-depth engineering study of multi-functional robots, focusing on technical and technological aspects. The study covers engineering architectures, control systems, hardware technologies, and industrial applications. Results demonstrate significant advancements in modular design, hierarchical control systems, and multimodal sensing integration. The report concludes with future development trends and technical challenges that engineers must consider in this rapidly evolving field.
 
+\newpage
+
 \tableofcontents
-\clearpage
+\newpage
 
 % ----- Main Content -----
 \section{บทนำ}
+หุ่นยนต์อเนกประสงค์ (*Multi-functional Robots*) เป็นเทคโนโลยีที่มีความสำคัญในยุคอุตสาหกรรม 4.0 \parencite{liang2025decoding}
+
 % Content will be added in next steps
 
 \section{สถาปัตยกรรมทางวิศวกรรม}

@@ -1,10 +1,10 @@
 \xpg@aux {}{thai}
-\contentsline {section}{\numberline {1}บทนำ}{2}{section.1}%
-\contentsline {section}{\numberline {2}สถาปัตยกรรมทางวิศวกรรม}{2}{section.2}%
-\contentsline {section}{\numberline {3}วิวัฒนาการเทคโนโลยี}{2}{section.3}%
-\contentsline {section}{\numberline {4}เทคโนโลยีหลักทางวิศวกรรม}{2}{section.4}%
-\contentsline {section}{\numberline {5}การประยุกต์ใช้ทางวิศวกรรม}{2}{section.5}%
-\contentsline {section}{\numberline {6}ความท้าทายทางเทคนิค}{2}{section.6}%
-\contentsline {section}{\numberline {7}ความปลอดภัยและมาตรฐาน}{2}{section.7}%
-\contentsline {section}{\numberline {8}ทิศทางการพัฒนาทางวิศวกรรม}{2}{section.8}%
-\contentsline {section}{\numberline {9}สรุป}{2}{section.9}%
+\contentsline {section}{\numberline {1}บทนำ}{ค}{section.1}%
+\contentsline {section}{\numberline {2}สถาปัตยกรรมทางวิศวกรรม}{ค}{section.2}%
+\contentsline {section}{\numberline {3}วิวัฒนาการเทคโนโลยี}{ค}{section.3}%
+\contentsline {section}{\numberline {4}เทคโนโลยีหลักทางวิศวกรรม}{ค}{section.4}%
+\contentsline {section}{\numberline {5}การประยุกต์ใช้ทางวิศวกรรม}{ค}{section.5}%
+\contentsline {section}{\numberline {6}ความท้าทายทางเทคนิค}{ค}{section.6}%
+\contentsline {section}{\numberline {7}ความปลอดภัยและมาตรฐาน}{ค}{section.7}%
+\contentsline {section}{\numberline {8}ทิศทางการพัฒนาทางวิศวกรรม}{ค}{section.8}%
+\contentsline {section}{\numberline {9}สรุป}{ค}{section.9}%
