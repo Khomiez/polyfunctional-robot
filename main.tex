@@ -7,16 +7,22 @@
 \setotherlanguage{english}
 \usepackage{graphicx}
 
-% Font setup for Thai
+% Font setup for Thai with proper line breaking
 \newfontfamily\thaifont{TH Sarabun New}[
   Script=Thai,
-  Scale=1.0
+  Scale=1.0,
+  WordSpace=1.0,
+  LetterSpace=0.0
 ]
 \newfontfamily\englishfont{TH Sarabun New}[
   Script=Latin,
   Scale=1.0
 ]
 \setmainfont{TH Sarabun New}
+
+% Enable Thai line breaking and hyphenation
+\XeTeXlinebreaklocale "th"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 1pt
 
 % Single spacing
 \usepackage{setspace}
@@ -35,6 +41,12 @@
 \usepackage{booktabs}
 \usepackage{csquotes}
 
+% Thai text formatting improvements
+\usepackage{ragged2e}
+\RaggedRight % This helps with Thai text wrapping
+\hyphenpenalty=10000 % Disable hyphenation for Thai
+\exhyphenpenalty=10000
+
 % Bibliography setup for APA
 \usepackage[style=apa,backend=biber]{biblatex}
 \DeclareLanguageMapping{english}{english-apa}
@@ -49,6 +61,15 @@
 }
 \def\thaialph#1{\expandafter\@thaialph\csname c@#1\endcsname}
 \makeatother
+
+% Paragraph settings for better text flow
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+
+% Better text justification for Thai
+\tolerance=1000
+\pretolerance=800
+\emergencystretch=3em
 
 % Cover page title setup
 \date{}
@@ -95,7 +116,13 @@
     {\fontsize{18pt}{22pt}\selectfont\textbf{บทคัดย่อ}\par}
 }
 
-รายงานฉบับนี้นำเสนอการวิเคราะห์เชิงครอบคลุมเกี่ยวกับหุ่นยนต์อเนกประสงค์ (Multi-functional Robots) ซึ่งเป็นเทคโนโลยีที่มีศักยภาพในการปฏิวัติการทำงานในหลากหลายภาคส่วน การศึกษานี้ได้วิเคราะห์สถาปัตยกรรมทางวิศวกรรมที่สำคัญ ประกอบด้วยการออกแบบแบบโมดูลาร์ ระบบควบคุมแบบลำดับชั้น และการรวมเซ็นเซอร์หลายรูปแบบ นอกจากนี้ยังได้สำรวจการประยุกต์ใช้ในอุตสาหกรรมการผลิต การแพทย์ การบริการ และภาคการเกษตร ผลการวิเคราะห์แสดงให้เห็นว่าหุ่นยนต์อเนกประสงค์สามารถเพิ่มประสิทธิภาพการทำงานและลดต้นทุนการดำเนินงานได้อย่างมีนัยสำคัญ อย่างไรก็ตาม ยังคงมีข้อท้าทายสำคัญในด้านความปลอดภัย มาตรฐานการทำงาน และการยอมรับจากสังคม รายงานนี้สรุปด้วยการเสนอแนวทางการพัฒนาในอนาคตและข้อแนะนำเชิงนโยบายเพื่อส่งเสริมการนำเทคโนโลยีนี้มาใช้ประโยชน์อย่างเหมาะสมและยั่งยืน
+\begin{justify}
+รายงานฉบับนี้นำเสนอการวิเคราะห์เชิงครอบคลุมเกี่ยวกับหุ่นยนต์อเนกประสงค์ (Multi-functional Robots) ซึ่งเป็นเทคโนโลยีที่มีศักยภาพในการปฏิวัติการทำงานในหลากหลายภาคส่วน การศึกษานี้ได้วิเคราะห์สถาปัตยกรรมทางวิศวกรรมที่สำคัญ ประกอบด้วยการออกแบบแบบโมดูลาร์ ระบบควบคุมแบบลำดับชั้น และการรวมเซ็นเซอร์หลายรูปแบบ 
+
+นอกจากนี้ยังได้สำรวจการประยุกต์ใช้ในอุตสาหกรรมการผลิต การแพทย์ การบริการ และภาคการเกษตร ผลการวิเคราะห์แสดงให้เห็นว่าหุ่นยนต์อเนกประสงค์สามารถเพิ่มประสิทธิภาพการทำงานและลดต้นทุนการดำเนินงานได้อย่างมีนัยสำคัญ อย่างไรก็ตาม ยังคงมีข้อท้าทายสำคัญในด้านความปลอดภัย มาตรฐานการทำงาน และการยอมรับจากสังคม 
+
+รายงานนี้สรุปด้วยการเสนอแนวทางการพัฒนาในอนาคตและข้อแนะนำเชิงนโยบายเพื่อส่งเสริมการนำเทคโนโลยีนี้มาใช้ประโยชน์อย่างเหมาะสมและยั่งยืน
+\end{justify}
 
 \vspace{1em}
 
@@ -104,7 +131,11 @@
     {\fontsize{18pt}{22pt}\selectfont\textbf{Abstract}\par}
 }
 
-This report presents a comprehensive analysis of multi-functional robots, a transformative technology with significant potential across multiple sectors. The study examines critical engineering architectures including modular design systems, hierarchical control frameworks, and multimodal sensor integration. The analysis encompasses applications in manufacturing, healthcare, service industries, and agriculture. Findings demonstrate that multi-functional robots can significantly enhance operational efficiency and reduce operational costs across various applications. However, substantial challenges remain in safety protocols, standardization frameworks, and social acceptance. The report concludes with future development pathways and policy recommendations to facilitate appropriate and sustainable implementation of this technology. This comprehensive study provides stakeholders with essential insights for strategic decision-making regarding the adoption and development of multi-functional robotic systems.
+\begin{justify}
+This report presents a comprehensive analysis of multi-functional robots, a transformative technology with significant potential across multiple sectors. The study examines critical engineering architectures including modular design systems, hierarchical control frameworks, and multimodal sensor integration. The analysis encompasses applications in manufacturing, healthcare, service industries, and agriculture. 
+
+Findings demonstrate that multi-functional robots can significantly enhance operational efficiency and reduce operational costs across various applications. However, substantial challenges remain in safety protocols, standardization frameworks, and social acceptance. The report concludes with future development pathways and policy recommendations to facilitate appropriate and sustainable implementation of this technology. This comprehensive study provides stakeholders with essential insights for strategic decision-making regarding the adoption and development of multi-functional robotic systems.
+\end{justify}
 
 \vspace{1em}
 
@@ -116,42 +147,62 @@ This report presents a comprehensive analysis of multi-functional robots, a tran
 % ----- Table of Contents -----
 \tableofcontents
 \newpage
+
 % ----- Switch to Arabic numbering for main content -----
 \pagenumbering{arabic}
 \setcounter{page}{1}
 
 % ----- Preface -----
 \section*{คำนำ}
+
+\begin{justify}
 รายงานฉบับนี้มีวัตถุประสงค์เพื่อสังเคราะห์องค์ความรู้เกี่ยวกับหุ่นยนต์อเนกประสงค์ (Polyfunctional Robots) ตั้งแต่กรอบนิยาม พัฒนาการทางประวัติศาสตร์ สถาปัตยกรรมและระบบควบคุม ไปจนถึงการประยุกต์ใช้ในภาคอุตสาหกรรม การแพทย์ การกู้ภัย อวกาศ และภาคเกษตร ตลอดจนประเด็นด้านเศรษฐศาสตร์ จริยธรรม และความปลอดภัย เพื่อเป็นฐานข้อมูลที่เป็นระบบสำหรับการศึกษาและการวิจัยต่อยอด
 
-เนื้อหาอาศัยการทบทวนวรรณกรรมจากหนังสือ วารสาร และรายงานวิชาการที่เชื่อถือได้ พร้อมการวิเคราะห์เชิงเปรียบเทียบ เพื่อชี้ให้เห็นความเหมือน-ความต่างระหว่างหุ่นยนต์อเนกประสงค์ หุ่นยนต์โมดูลาร์ และหุ่นยนต์ที่ปรับเปลี่ยนโครงสร้างได้ด้วยตนเอง ตลอดจนแนวโน้มเทคโนโลยีในอนาคต
+เนื้อหาอาศัยการทบทวนวรรณกรรมจากหนังสือ วารสาร และรายงานวิชาการที่เชื่อถือได้ พร้อมการวิเคราะห์เชิงเปรียบเทียบ เพื่อชี้ให้เห็นความเหมือนและความต่างระหว่างหุ่นยนต์อเนกประสงค์ หุ่นยนต์โมดูลาร์ และหุ่นยนต์ที่ปรับเปลี่ยนโครงสร้างได้ด้วยตนเอง ตลอดจนแนวโน้มเทคโนโลยีในอนาคต
 
 {\itshape รายงานนี้มีการใช้เครื่องมือ Generative AI เพื่อช่วยในการสรุปหัวข้อเบื้องต้นและเรียบเรียงข้อความบางส่วน โดยผู้เขียนได้ตรวจสอบและปรับปรุงเนื้อหาทั้งหมดด้วยตนเอง}
-% Content will be expanded in next steps
+\end{justify}
 
+% Content sections with proper justification
 \section{สถาปัตยกรรมทางวิศวกรรม}
-% Content will be added
+\begin{justify}
+% Content will be added with proper text wrapping
+\end{justify}
 
 \section{วิวัฒนาการเทคโนโลยี}
-% Content will be added
+\begin{justify}
+% Content will be added with proper text wrapping
+\end{justify}
 
 \section{เทคโนโลยีหลักทางวิศวกรรม}
-% Content will be added
+\begin{justify}
+% Content will be added with proper text wrapping
+\end{justify}
 
 \section{การประยุกต์ใช้ทางวิศวกรรม}
-% Content will be added
+\begin{justify}
+% Content will be added with proper text wrapping
+\end{justify}
 
 \section{ความท้าทายทางเทคนิค}
-% Content will be added
+\begin{justify}
+% Content will be added with proper text wrapping
+\end{justify}
 
 \section{ความปลอดภัยและมาตรฐาน}
-% Content will be added
+\begin{justify}
+% Content will be added with proper text wrapping
+\end{justify}
 
 \section{ทิศทางการพัฒนาทางวิศวกรรม}
-% Content will be added
+\begin{justify}
+% Content will be added with proper text wrapping
+\end{justify}
 
 \section{สรุป}
-% Content will be added
+\begin{justify}
+% Content will be added with proper text wrapping
+\end{justify}
 
 % ----- Bibliography -----
 \printbibliography[title=เอกสารอ้างอิง]
@@ -159,9 +210,13 @@ This report presents a comprehensive analysis of multi-functional robots, a tran
 % ----- Appendices (optional) -----
 \appendix
 \section{ภาคผนวก ก: คำศัพท์เทคนิค}
+\begin{justify}
 % Technical glossary will be added
+\end{justify}
 
 \section{ภาคผนวก ข: ตารางเปรียบเทียบเทคโนโลยี}
+\begin{justify}
 % Comparison tables will be added
+\end{justify}
 
 \end{document}
