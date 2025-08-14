@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.8.12)  13 AUG 2025 14:12
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.8.12)  14 AUG 2025 16:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -933,55 +933,90 @@ LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
 
 
 [1]
-Underfull \hbox (badness 1565) in paragraph at lines 139--140
-[]\TU/THSarabunNew(0)/m/n/16 This report also analyzes their applications in ke
-y industries, including automated
- []
-
-
-
-[2]
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 160.
+(Font)              scaled to size 14.4pt on input line 148.
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
-(Font)              scaled to size 14.4pt on input line 160.
+(Font)              scaled to size 14.4pt on input line 148.
  (main.toc
 \thai@year=\count458
+LaTeX Font Info:    Calculating math sizes for size <16> on input line 6.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <16> not available
+(Font)              size <17.28> substituted on input line 6.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <16> not available
+(Font)              size <17.28> substituted on input line 6.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <16> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <11.19995> on input line 6.
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <16> not available
+(Font)              size <17.28> substituted on input line 6.
+
 )
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
 
 
-[3]
-LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/it' will be
-(Font)              scaled to size 16.0pt on input line 175.
+[2]
+LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
+(Font)              scaled to size 12.0pt on input line 186.
 
 
 [1]
 
-LaTeX Warning: Empty bibliography on input line 220.
+[2]
+
+[3]
+LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/it' will be
+(Font)              scaled to size 16.0pt on input line 271.
+
+Missing character: There is no ż in font TH Sarabun New/OT:script=thai;language
+=dflt;letterspace=0.0;!
+
+Underfull \hbox (badness 1661) in paragraph at lines 271--271
+[][]\TU/THSarabunNew(0)/m/n/16 Hameed, A., Ordys, A., Możaryn, J., & Sibilska-M
+roziewicz, A. (2017). Modular 
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 271--271
+\TU/THSarabunNew(0)/m/n/16 self-reconfigurable robotic systems: A survey on har
+dware architectures. 
+ []
 
 
 
-[2] (main.aux)
+[4]
+
+[5] (main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-20>
  ***********
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.28pt have occurred.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B060AC53CF9D272D21EDFEBC4B4AEBA3;2179.
+(rerunfilecheck)             Checksum: 95A200B0FC894C43C0B64F6A98779D55;3073.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 20255 strings out of 403250
- 406170 string characters out of 5460888
- 1429064 words of memory out of 5000000
- 48491 multiletter control sequences out of 15000+600000
- 630233 words of font info for 89 fonts, out of 8000000 for 9000
+ 20560 strings out of 403250
+ 413508 string characters out of 5460888
+ 1431706 words of memory out of 5000000
+ 48793 multiletter control sequences out of 15000+600000
+ 632079 words of font info for 97 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  73i,6n,95p,726b,5237s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (6 pages).
+Output written on main.pdf (8 pages).
