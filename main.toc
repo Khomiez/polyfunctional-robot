@@ -1,17 +1,14 @@
 \xpg@aux {}{thai}
-\contentsline {section}{\numberline {1}องค์ประกอบของรายงาน}{1}{section.1}%
-\contentsline {section}{\numberline {2}บทคัดย่อ}{1}{section.2}%
-\contentsline {section}{\numberline {3}สารบัญ}{1}{section.3}%
-\contentsline {section}{\numberline {4}บทนำ}{1}{section.4}%
-\contentsline {subsection}{\numberline {4.1}วัตถุประสงค์ของการศึกษา}{2}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}ขอบเขตการศึกษา}{2}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}คำจำกัดความสำคัญ}{2}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}ระเบียบวิธีการศึกษา}{3}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}ประโยชน์ที่คาดว่าจะได้รับ}{3}{subsection.4.5}%
-\contentsline {section}{\numberline {5}เนื้อหา}{4}{section.5}%
-\contentsline {section}{\numberline {6}การวิเคราะห์และอภิปราย}{4}{section.6}%
-\contentsline {section}{\numberline {7}เอกสารประมิณขายงานฉบับสมบูรณ์}{4}{section.7}%
-\contentsline {section}{\numberline {8}ความคิดสร้างสรรค์และความเยียบร้อย}{4}{section.8}%
-\contentsline {section}{\numberline {9}สรุป}{4}{section.9}%
-\contentsline {section}{\numberline {A}ภาคผนวก ก: คำศัพท์เทคนิค}{5}{appendix.A}%
-\contentsline {section}{\numberline {B}ภาคผนวก ข: ตารางเปรียบเทียบเทคโนโลยี}{5}{appendix.B}%
+\contentsline {section}{\numberline {1}บทนำ}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}วัตถุประสงค์ของการศึกษา}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}ขอบเขตการศึกษา}{4}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}คำจำกัดความสำคัญ}{4}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}ระเบียบวิธีการศึกษา}{5}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}ประโยชน์ที่คาดว่าจะได้รับ}{5}{subsection.1.5}%
+\contentsline {section}{\numberline {2}เนื้อหา}{6}{section.2}%
+\contentsline {section}{\numberline {3}การวิเคราะห์และอภิปราย}{6}{section.3}%
+\contentsline {section}{\numberline {4}เอกสารประมิณขายงานฉบับสมบูรณ์}{6}{section.4}%
+\contentsline {section}{\numberline {5}ความคิดสร้างสรรค์และความเยียบร้อย}{6}{section.5}%
+\contentsline {section}{\numberline {6}สรุป}{6}{section.6}%
+\contentsline {section}{\numberline {A}ภาคผนวก ก: คำศัพท์เทคนิค}{7}{appendix.A}%
+\contentsline {section}{\numberline {B}ภาคผนวก ข: ตารางเปรียบเทียบเทคโนโลยี}{7}{appendix.B}%

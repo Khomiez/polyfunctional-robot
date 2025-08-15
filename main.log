@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.8.12)  14 AUG 2025 16:21
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.8.12)  14 AUG 2025 16:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -237,6 +237,55 @@ Package fontspec Info:
 (C:\Users\NBODT\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 )
+(C:\Users\NBODT\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box53
+\beforetitleunit=\skip51
+\aftertitleunit=\skip52
+\ttl@plus=\dimen162
+\ttl@minus=\dimen163
+\ttl@toksa=\toks19
+\titlewidth=\dimen164
+\titlewidthlast=\dimen165
+\titlewidthfirst=\dimen166
+)
+(C:\Users\NBODT\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 51.
+\cftparskip=\skip53
+\cftbeforetoctitleskip=\skip54
+\cftaftertoctitleskip=\skip55
+\cftbeforepartskip=\skip56
+\cftpartnumwidth=\skip57
+\cftpartindent=\skip58
+\cftbeforesecskip=\skip59
+\cftsecindent=\skip60
+\cftsecnumwidth=\skip61
+\cftbeforesubsecskip=\skip62
+\cftsubsecindent=\skip63
+\cftsubsecnumwidth=\skip64
+\cftbeforesubsubsecskip=\skip65
+\cftsubsubsecindent=\skip66
+\cftsubsubsecnumwidth=\skip67
+\cftbeforeparaskip=\skip68
+\cftparaindent=\skip69
+\cftparanumwidth=\skip70
+\cftbeforesubparaskip=\skip71
+\cftsubparaindent=\skip72
+\cftsubparanumwidth=\skip73
+\cftbeforeloftitleskip=\skip74
+\cftafterloftitleskip=\skip75
+\cftbeforefigskip=\skip76
+\cftfigindent=\skip77
+\cftfignumwidth=\skip78
+\c@lofdepth=\count298
+\c@lotdepth=\count299
+\cftbeforelottitleskip=\skip79
+\cftafterlottitleskip=\skip80
+\cftbeforetabskip=\skip81
+\cfttabindent=\skip82
+\cfttabnumwidth=\skip83
+)
 (C:\Users\NBODT\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
 
@@ -283,22 +332,22 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 (C:\Users\NBODT\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count298
+\c@section@level=\count300
 )
 (C:\Users\NBODT\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
 ty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\@linkdim=\dimen162
-\Hy@linkcounter=\count299
-\Hy@pagecounter=\count300
+\@linkdim=\dimen167
+\Hy@linkcounter=\count301
+\Hy@pagecounter=\count302
  (C:\Users\NBODT\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
 ) (C:\Users\NBODT\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count301
+\Hy@SavedSpaceFactor=\count303
  (C:\Users\NBODT\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
 )
@@ -309,14 +358,14 @@ Package hyperref Info: Plain pages OFF on input line 4210.
 Package hyperref Info: Backreferencing OFF on input line 4215.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4462.
-\c@Hy@tempcnt=\count302
+\c@Hy@tempcnt=\count304
 
 (C:\Users\NBODT\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4801.
-\XeTeXLinkMargin=\dimen163
+\XeTeXLinkMargin=\dimen168
 
 (C:\Users\NBODT\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -326,9 +375,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count303
-\Field@Width=\dimen164
-\Fld@charsize=\dimen165
+\Fld@menulength=\count305
+\Field@Width=\dimen169
+\Fld@charsize=\dimen170
 Package hyperref Info: Hyper figures OFF on input line 6078.
 Package hyperref Info: Link nesting OFF on input line 6083.
 Package hyperref Info: Hyper index ON on input line 6086.
@@ -336,19 +385,19 @@ Package hyperref Info: backreferencing OFF on input line 6093.
 Package hyperref Info: Link coloring OFF on input line 6098.
 Package hyperref Info: Link coloring with OCG OFF on input line 6103.
 Package hyperref Info: PDF/A mode OFF on input line 6108.
-\Hy@abspage=\count304
-\c@Item=\count305
-\c@Hfootnote=\count306
+\Hy@abspage=\count306
+\c@Item=\count307
+\c@Hfootnote=\count308
 )
 Package hyperref Info: Driver (autodetected): hxetex.
 
 (C:\Users\NBODT\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hxetex.def
 File: hxetex.def 2025-07-12 v7.01o Hyperref driver for XeTeX
-\pdfm@box=\box53
-\c@Hy@AnnotLevel=\count307
-\HyField@AnnotCount=\count308
-\Fld@listcount=\count309
-\c@bookmark@seq@number=\count310
+\pdfm@box=\box54
+\c@Hy@AnnotLevel=\count309
+\HyField@AnnotCount=\count310
+\Fld@listcount=\count311
+\c@bookmark@seq@number=\count312
 
 (C:\Users\NBODT\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
 echeck.sty
@@ -361,37 +410,37 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 84.
 )
-\Hy@SectionHShift=\skip51
+\Hy@SectionHShift=\skip84
 )
 (C:\Users\NBODT\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen166
-\lightrulewidth=\dimen167
-\cmidrulewidth=\dimen168
-\belowrulesep=\dimen169
-\belowbottomsep=\dimen170
-\aboverulesep=\dimen171
-\abovetopsep=\dimen172
-\cmidrulesep=\dimen173
-\cmidrulekern=\dimen174
-\defaultaddspace=\dimen175
-\@cmidla=\count311
-\@cmidlb=\count312
-\@aboverulesep=\dimen176
-\@belowrulesep=\dimen177
-\@thisruleclass=\count313
-\@lastruleclass=\count314
-\@thisrulewidth=\dimen178
+\heavyrulewidth=\dimen171
+\lightrulewidth=\dimen172
+\cmidrulewidth=\dimen173
+\belowrulesep=\dimen174
+\belowbottomsep=\dimen175
+\aboverulesep=\dimen176
+\abovetopsep=\dimen177
+\cmidrulesep=\dimen178
+\cmidrulekern=\dimen179
+\defaultaddspace=\dimen180
+\@cmidla=\count313
+\@cmidlb=\count314
+\@aboverulesep=\dimen181
+\@belowrulesep=\dimen182
+\@thisruleclass=\count315
+\@lastruleclass=\count316
+\@thisrulewidth=\dimen183
 )
 (C:\Users\NBODT\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
 Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
-\csq@reset=\count315
-\csq@gtype=\count316
-\csq@glevel=\count317
-\csq@qlevel=\count318
-\csq@maxlvl=\count319
-\csq@tshold=\count320
-\csq@ltx@everypar=\toks19
+\csq@reset=\count317
+\csq@gtype=\count318
+\csq@glevel=\count319
+\csq@qlevel=\count320
+\csq@maxlvl=\count321
+\csq@tshold=\count322
+\csq@ltx@everypar=\toks20
 
 (C:\Users\NBODT\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
 File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
@@ -404,26 +453,26 @@ File: csquotes.cfg
 )) (C:\Users\NBODT\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.st
 y
 Package: ragged2e 2023/06/22 v3.6 ragged2e Package
-\CenteringLeftskip=\skip52
-\RaggedLeftLeftskip=\skip53
-\RaggedRightLeftskip=\skip54
-\CenteringRightskip=\skip55
-\RaggedLeftRightskip=\skip56
-\RaggedRightRightskip=\skip57
-\CenteringParfillskip=\skip58
-\RaggedLeftParfillskip=\skip59
-\RaggedRightParfillskip=\skip60
-\JustifyingParfillskip=\skip61
-\CenteringParindent=\skip62
-\RaggedLeftParindent=\skip63
-\RaggedRightParindent=\skip64
-\JustifyingParindent=\skip65
+\CenteringLeftskip=\skip85
+\RaggedLeftLeftskip=\skip86
+\RaggedRightLeftskip=\skip87
+\CenteringRightskip=\skip88
+\RaggedLeftRightskip=\skip89
+\RaggedRightRightskip=\skip90
+\CenteringParfillskip=\skip91
+\RaggedLeftParfillskip=\skip92
+\RaggedRightParfillskip=\skip93
+\JustifyingParfillskip=\skip94
+\CenteringParindent=\skip95
+\RaggedLeftParindent=\skip96
+\RaggedRightParindent=\skip97
+\JustifyingParindent=\skip98
 ) (C:\Users\NBODT\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
 
 (C:\Users\NBODT\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count321
+\lrq@indent=\count323
 
 (C:\Users\NBODT\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -431,63 +480,63 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 (C:\Users\NBODT\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 )
-\c@tabx@nest=\count322
-\c@listtotal=\count323
-\c@listcount=\count324
-\c@liststart=\count325
-\c@liststop=\count326
-\c@citecount=\count327
-\c@citetotal=\count328
-\c@multicitecount=\count329
-\c@multicitetotal=\count330
-\c@instcount=\count331
-\c@maxnames=\count332
-\c@minnames=\count333
-\c@maxitems=\count334
-\c@minitems=\count335
-\c@citecounter=\count336
-\c@maxcitecounter=\count337
-\c@savedcitecounter=\count338
-\c@uniquelist=\count339
-\c@uniquename=\count340
-\c@refsection=\count341
-\c@refsegment=\count342
-\c@maxextratitle=\count343
-\c@maxextratitleyear=\count344
-\c@maxextraname=\count345
-\c@maxextradate=\count346
-\c@maxextraalpha=\count347
-\c@abbrvpenalty=\count348
-\c@highnamepenalty=\count349
-\c@lownamepenalty=\count350
-\c@maxparens=\count351
-\c@parenlevel=\count352
-\blx@tempcnta=\count353
-\blx@tempcntb=\count354
-\blx@tempcntc=\count355
-\c@blx@maxsection=\count356
-\blx@maxsegment@0=\count357
-\blx@notetype=\count358
-\blx@parenlevel@text=\count359
-\blx@parenlevel@foot=\count360
-\blx@sectionciteorder@0=\count361
-\blx@sectionciteorderinternal@0=\count362
-\blx@entrysetcounter=\count363
-\blx@biblioinstance=\count364
-\labelnumberwidth=\skip66
-\labelalphawidth=\skip67
-\biblabelsep=\skip68
-\bibitemsep=\skip69
-\bibnamesep=\skip70
-\bibinitsep=\skip71
-\bibparsep=\skip72
-\bibhang=\skip73
+\c@tabx@nest=\count324
+\c@listtotal=\count325
+\c@listcount=\count326
+\c@liststart=\count327
+\c@liststop=\count328
+\c@citecount=\count329
+\c@citetotal=\count330
+\c@multicitecount=\count331
+\c@multicitetotal=\count332
+\c@instcount=\count333
+\c@maxnames=\count334
+\c@minnames=\count335
+\c@maxitems=\count336
+\c@minitems=\count337
+\c@citecounter=\count338
+\c@maxcitecounter=\count339
+\c@savedcitecounter=\count340
+\c@uniquelist=\count341
+\c@uniquename=\count342
+\c@refsection=\count343
+\c@refsegment=\count344
+\c@maxextratitle=\count345
+\c@maxextratitleyear=\count346
+\c@maxextraname=\count347
+\c@maxextradate=\count348
+\c@maxextraalpha=\count349
+\c@abbrvpenalty=\count350
+\c@highnamepenalty=\count351
+\c@lownamepenalty=\count352
+\c@maxparens=\count353
+\c@parenlevel=\count354
+\blx@tempcnta=\count355
+\blx@tempcntb=\count356
+\blx@tempcntc=\count357
+\c@blx@maxsection=\count358
+\blx@maxsegment@0=\count359
+\blx@notetype=\count360
+\blx@parenlevel@text=\count361
+\blx@parenlevel@foot=\count362
+\blx@sectionciteorder@0=\count363
+\blx@sectionciteorderinternal@0=\count364
+\blx@entrysetcounter=\count365
+\blx@biblioinstance=\count366
+\labelnumberwidth=\skip99
+\labelalphawidth=\skip100
+\biblabelsep=\skip101
+\bibitemsep=\skip102
+\bibnamesep=\skip103
+\bibinitsep=\skip104
+\bibparsep=\skip105
+\bibhang=\skip106
 \blx@bcfin=\read2
 \blx@bcfout=\write3
 \blx@langwohyphens=\language79
-\c@mincomprange=\count365
-\c@maxcomprange=\count366
-\c@mincompwidth=\count367
+\c@mincomprange=\count367
+\c@maxcomprange=\count368
+\c@mincompwidth=\count369
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -502,98 +551,98 @@ File: apa.dbx 2025/08/03 v9.18 APA biblatex style data model
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count368
-\c@savedafterword=\count369
-\c@annotator=\count370
-\c@savedannotator=\count371
-\c@author=\count372
-\c@savedauthor=\count373
-\c@bookauthor=\count374
-\c@savedbookauthor=\count375
-\c@commentator=\count376
-\c@savedcommentator=\count377
-\c@editor=\count378
-\c@savededitor=\count379
-\c@editora=\count380
-\c@savededitora=\count381
-\c@editorb=\count382
-\c@savededitorb=\count383
-\c@editorc=\count384
-\c@savededitorc=\count385
-\c@foreword=\count386
-\c@savedforeword=\count387
-\c@holder=\count388
-\c@savedholder=\count389
-\c@introduction=\count390
-\c@savedintroduction=\count391
-\c@namea=\count392
-\c@savednamea=\count393
-\c@nameb=\count394
-\c@savednameb=\count395
-\c@namec=\count396
-\c@savednamec=\count397
-\c@translator=\count398
-\c@savedtranslator=\count399
-\c@shortauthor=\count400
-\c@savedshortauthor=\count401
-\c@shorteditor=\count402
-\c@savedshorteditor=\count403
-\c@narrator=\count404
-\c@savednarrator=\count405
-\c@execproducer=\count406
-\c@savedexecproducer=\count407
-\c@execdirector=\count408
-\c@savedexecdirector=\count409
-\c@with=\count410
-\c@savedwith=\count411
-\c@labelname=\count412
-\c@savedlabelname=\count413
-\c@institution=\count414
-\c@savedinstitution=\count415
-\c@lista=\count416
-\c@savedlista=\count417
-\c@listb=\count418
-\c@savedlistb=\count419
-\c@listc=\count420
-\c@savedlistc=\count421
-\c@listd=\count422
-\c@savedlistd=\count423
-\c@liste=\count424
-\c@savedliste=\count425
-\c@listf=\count426
-\c@savedlistf=\count427
-\c@location=\count428
-\c@savedlocation=\count429
-\c@organization=\count430
-\c@savedorganization=\count431
-\c@origlocation=\count432
-\c@savedoriglocation=\count433
-\c@origpublisher=\count434
-\c@savedorigpublisher=\count435
-\c@publisher=\count436
-\c@savedpublisher=\count437
-\c@language=\count438
-\c@savedlanguage=\count439
-\c@origlanguage=\count440
-\c@savedoriglanguage=\count441
-\c@citation=\count442
-\c@savedcitation=\count443
-\c@pageref=\count444
-\c@savedpageref=\count445
-\shorthandwidth=\skip74
-\shortjournalwidth=\skip75
-\shortserieswidth=\skip76
-\shorttitlewidth=\skip77
-\shortauthorwidth=\skip78
-\shorteditorwidth=\skip79
-\locallabelnumberwidth=\skip80
-\locallabelalphawidth=\skip81
-\localshorthandwidth=\skip82
-\localshortjournalwidth=\skip83
-\localshortserieswidth=\skip84
-\localshorttitlewidth=\skip85
-\localshortauthorwidth=\skip86
-\localshorteditorwidth=\skip87
+\c@afterword=\count370
+\c@savedafterword=\count371
+\c@annotator=\count372
+\c@savedannotator=\count373
+\c@author=\count374
+\c@savedauthor=\count375
+\c@bookauthor=\count376
+\c@savedbookauthor=\count377
+\c@commentator=\count378
+\c@savedcommentator=\count379
+\c@editor=\count380
+\c@savededitor=\count381
+\c@editora=\count382
+\c@savededitora=\count383
+\c@editorb=\count384
+\c@savededitorb=\count385
+\c@editorc=\count386
+\c@savededitorc=\count387
+\c@foreword=\count388
+\c@savedforeword=\count389
+\c@holder=\count390
+\c@savedholder=\count391
+\c@introduction=\count392
+\c@savedintroduction=\count393
+\c@namea=\count394
+\c@savednamea=\count395
+\c@nameb=\count396
+\c@savednameb=\count397
+\c@namec=\count398
+\c@savednamec=\count399
+\c@translator=\count400
+\c@savedtranslator=\count401
+\c@shortauthor=\count402
+\c@savedshortauthor=\count403
+\c@shorteditor=\count404
+\c@savedshorteditor=\count405
+\c@narrator=\count406
+\c@savednarrator=\count407
+\c@execproducer=\count408
+\c@savedexecproducer=\count409
+\c@execdirector=\count410
+\c@savedexecdirector=\count411
+\c@with=\count412
+\c@savedwith=\count413
+\c@labelname=\count414
+\c@savedlabelname=\count415
+\c@institution=\count416
+\c@savedinstitution=\count417
+\c@lista=\count418
+\c@savedlista=\count419
+\c@listb=\count420
+\c@savedlistb=\count421
+\c@listc=\count422
+\c@savedlistc=\count423
+\c@listd=\count424
+\c@savedlistd=\count425
+\c@liste=\count426
+\c@savedliste=\count427
+\c@listf=\count428
+\c@savedlistf=\count429
+\c@location=\count430
+\c@savedlocation=\count431
+\c@organization=\count432
+\c@savedorganization=\count433
+\c@origlocation=\count434
+\c@savedoriglocation=\count435
+\c@origpublisher=\count436
+\c@savedorigpublisher=\count437
+\c@publisher=\count438
+\c@savedpublisher=\count439
+\c@language=\count440
+\c@savedlanguage=\count441
+\c@origlanguage=\count442
+\c@savedoriglanguage=\count443
+\c@citation=\count444
+\c@savedcitation=\count445
+\c@pageref=\count446
+\c@savedpageref=\count447
+\shorthandwidth=\skip107
+\shortjournalwidth=\skip108
+\shortserieswidth=\skip109
+\shorttitlewidth=\skip110
+\shortauthorwidth=\skip111
+\shorteditorwidth=\skip112
+\locallabelnumberwidth=\skip113
+\locallabelalphawidth=\skip114
+\localshorthandwidth=\skip115
+\localshortjournalwidth=\skip116
+\localshortserieswidth=\skip117
+\localshorttitlewidth=\skip118
+\localshortauthorwidth=\skip119
+\localshorteditorwidth=\skip120
 Package biblatex Info: Trying to load enhanced support for Unicode engines...
 Package biblatex Info: ... file 'blx-unicode.def' found.
 
@@ -609,19 +658,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (C:\Users\NBODT\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
-\c@textcitecount=\count446
-\c@textcitetotal=\count447
-\c@textcitemaxnames=\count448
-\c@biburlbigbreakpenalty=\count449
-\c@biburlbreakpenalty=\count450
-\c@biburlnumpenalty=\count451
-\c@biburlucpenalty=\count452
-\c@biburllcpenalty=\count453
+\c@textcitecount=\count448
+\c@textcitetotal=\count449
+\c@textcitemaxnames=\count450
+\c@biburlbigbreakpenalty=\count451
+\c@biburlbreakpenalty=\count452
+\c@biburlnumpenalty=\count453
+\c@biburlucpenalty=\count454
+\c@biburllcpenalty=\count455
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count454
+\c@smartand=\count456
 )
 Package biblatex Info: Trying to load bibliography style 'apa'...
 Package biblatex Info: ... file 'apa.bbx' found.
@@ -633,8 +682,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 (C:\Users\NBODT\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.b
 bx
 File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count455
-\c@bbx:relatedtotal=\count456
+\c@bbx:relatedcount=\count457
+\c@bbx:relatedtotal=\count458
 )
 Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defin
 ed, overwriting.
@@ -694,34 +743,34 @@ Package csquotes Info: Adjusting default style.
 
 
 Package csquotes Warning: No style for language 'thai'.
-(csquotes)                Using fallback style on input line 83.
+(csquotes)                Using fallback style on input line 96.
 
 Package csquotes Info: Redefining alias 'default' -> 'fallback'.
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
-(Font)              scaled to size 16.0pt on input line 83.
+(Font)              scaled to size 16.0pt on input line 96.
 (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -764,65 +813,65 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 83.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 83.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 83.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 83.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 83.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 83.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 83.
-LaTeX Font Info:    Redeclaring math accent \check on input line 83.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 83.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 83.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 83.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 83.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 83.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 83.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 83.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 83.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 83.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 83.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 83.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 83.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 83.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 83.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 83.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 83.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 83.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 96.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 96.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 96.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 96.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 96.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 96.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 96.
+LaTeX Font Info:    Redeclaring math accent \check on input line 96.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 96.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 96.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 96.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 96.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 83.
+(Font)              `operators' in the math version `normal' on input line 96.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/THSarabunNew(2)/m/n on input line 83
+(Font)                  OT1/cmr/m/n --> TU/THSarabunNew(2)/m/n on input line 96
 .
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 83.
+(Font)              `operators' in the math version `bold' on input line 96.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/THSarabunNew(2)/m/n on input line 8
-3.
+(Font)                  OT1/cmr/bx/n --> TU/THSarabunNew(2)/m/n on input line 9
+6.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/THSarabunNew(2)/m/n --> TU/THSarabunNew(2)/m/n on in
-put line 83.
+put line 96.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/THSarabunNew(2)/m/it on input line 
-83.
+96.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/THSarabunNew(2)/b/n on input line 8
-3.
+(Font)                  OT1/cmr/bx/n --> TU/THSarabunNew(2)/b/n on input line 9
+6.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 83.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 96.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 83.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 96.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/THSarabunNew(2)/m/n --> TU/THSarabunNew(2)/b/n on in
-put line 83.
+put line 96.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/THSarabunNew(2)/b/it on input line
- 83.
+ 96.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 83.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 96.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 83.
-Package hyperref Info: Link coloring OFF on input line 83.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 96.
+Package hyperref Info: Link coloring OFF on input line 96.
 (main.out) (main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
@@ -885,7 +934,7 @@ Package biblatex Info: Trying to load language 'thai'...
 Package biblatex Info: ... file 'thai.lbx' not found.
 
 Package biblatex Warning: Language 'thai' not supported.
-(biblatex)                Using dummy definitions on input line 83.
+(biblatex)                Using dummy definitions on input line 96.
 
 Package biblatex Info: XeTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
@@ -896,66 +945,66 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
 (main.bbl)
-Package biblatex Info: Reference section=0 on input line 83.
-Package biblatex Info: Reference segment=0 on input line 83.
-\thai@year=\count457
+Package biblatex Info: Reference section=0 on input line 96.
+Package biblatex Info: Reference segment=0 on input line 96.
+\thai@year=\count459
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
-(Font)              scaled to size 17.28pt on input line 87.
+(Font)              scaled to size 17.28pt on input line 100.
 File: logo.png Graphic file (type bmp)
 <logo.png>
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
-(Font)              scaled to size 32.0pt on input line 87.
+(Font)              scaled to size 32.0pt on input line 100.
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
-(Font)              scaled to size 32.0pt on input line 87.
+(Font)              scaled to size 32.0pt on input line 100.
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 87.
+(Font)              scaled to size 12.0pt on input line 100.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 87.
+(Font)              <12> on input line 100.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 87.
+(Font)              <8> on input line 100.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 87.
+(Font)              <6> on input line 100.
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
-(Font)              scaled to size 22.0pt on input line 91.
+(Font)              scaled to size 22.0pt on input line 104.
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
-(Font)              scaled to size 22.0pt on input line 94.
+(Font)              scaled to size 22.0pt on input line 107.
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
-(Font)              scaled to size 16.0pt on input line 104.
+(Font)              scaled to size 16.0pt on input line 117.
 
 
 [1
 
 ]
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
-(Font)              scaled to size 18.0pt on input line 116.
+(Font)              scaled to size 18.0pt on input line 128.
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
-(Font)              scaled to size 18.0pt on input line 116.
+(Font)              scaled to size 18.0pt on input line 128.
 
 
 [1]
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 148.
+(Font)              scaled to size 14.4pt on input line 157.
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
-(Font)              scaled to size 14.4pt on input line 148.
+(Font)              scaled to size 14.4pt on input line 157.
  (main.toc
-\thai@year=\count458
-LaTeX Font Info:    Calculating math sizes for size <16> on input line 6.
+\thai@year=\count460
+LaTeX Font Info:    Calculating math sizes for size <16> on input line 2.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <16> not available
-(Font)              size <17.28> substituted on input line 6.
+(Font)              size <17.28> substituted on input line 2.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 6.
+(Font)              size <17.28> substituted on input line 2.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <16> on input line 6.
+(Font)              <16> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <11.19995> on input line 6.
+(Font)              <11.19995> on input line 2.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 6.
+(Font)              size <17.28> substituted on input line 2.
 
 )
 \tf@toc=\write5
@@ -964,37 +1013,26 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <16> not available
 
 
 [2]
-LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 186.
-
 
 [1]
 
 [2]
 
 [3]
-LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/it' will be
-(Font)              scaled to size 16.0pt on input line 271.
 
+[4]
+LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/it' will be
+(Font)              scaled to size 16.0pt on input line 258.
+
+
+[5]
 Missing character: There is no ż in font TH Sarabun New/OT:script=thai;language
 =dflt;letterspace=0.0;!
 
-Underfull \hbox (badness 1661) in paragraph at lines 271--271
-[][]\TU/THSarabunNew(0)/m/n/16 Hameed, A., Ordys, A., Możaryn, J., & Sibilska-M
-roziewicz, A. (2017). Modular 
- []
 
+[6]
 
-Underfull \hbox (badness 1014) in paragraph at lines 271--271
-\TU/THSarabunNew(0)/m/n/16 self-reconfigurable robotic systems: A survey on har
-dware architectures. 
- []
-
-
-
-[4]
-
-[5] (main.aux)
+[7] (main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-20>
@@ -1005,18 +1043,18 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.28pt have occurred.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 95A200B0FC894C43C0B64F6A98779D55;3073.
+(rerunfilecheck)             Checksum: A39F8FA43CAC6004F10C8F35DA99BC3D;2677.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 20560 strings out of 403250
- 413508 string characters out of 5460888
- 1431706 words of memory out of 5000000
- 48793 multiletter control sequences out of 15000+600000
- 632079 words of font info for 97 fonts, out of 8000000 for 9000
+ 21123 strings out of 403250
+ 421389 string characters out of 5460888
+ 1445935 words of memory out of 5000000
+ 49351 multiletter control sequences out of 15000+600000
+ 632071 words of font info for 96 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  73i,6n,95p,726b,5237s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (8 pages).
+Output written on main.pdf (10 pages).
