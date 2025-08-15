@@ -1,18 +1,9 @@
 \xpg@aux {}{thai}
 \contentsline {section}{\numberline {1}บทนำ}{3}{section.1}%
-\contentsline {subsection}{\numberline {1.1}วัตถุประสงค์ของการศึกษา}{3}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}ขอบเขตการศึกษา}{4}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}คำจำกัดความสำคัญ}{4}{subsection.1.3}%
-\contentsline {subsection}{\numberline {1.4}ระเบียบวิธีการศึกษา}{5}{subsection.1.4}%
-\contentsline {subsection}{\numberline {1.5}ประโยชน์ที่คาดว่าจะได้รับ}{5}{subsection.1.5}%
-\contentsline {section}{\numberline {2}เนื้อหา}{5}{section.2}%
-\contentsline {subsection}{\numberline {2.1}นิยามและแนวคิดหุ่นยนต์อเนกประสงค์}{6}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}สถาปัตยกรรมและการออกแบบ}{7}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}เทคโนโลยีหลักและการควบคุม}{8}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}การประยุกต์ใช้ในภาคอุตสาหกรรม}{9}{subsection.2.4}%
-\contentsline {section}{\numberline {3}การวิเคราะห์และอภิปราย}{11}{section.3}%
-\contentsline {section}{\numberline {4}เอกสารประมิณขายงานฉบับสมบูรณ์}{11}{section.4}%
-\contentsline {section}{\numberline {5}ความคิดสร้างสรรค์และความเยียบร้อย}{11}{section.5}%
-\contentsline {section}{\numberline {6}สรุป}{11}{section.6}%
-\contentsline {section}{\numberline {A}ภาคผนวก ก: คำศัพท์เทคนิค}{13}{appendix.A}%
-\contentsline {section}{\numberline {B}ภาคผนวก ข: ตารางเปรียบเทียบเทคโนโลยี}{13}{appendix.B}%
+\contentsline {section}{\numberline {2}การทบทวนวรรณกรรมที่เกี่ยวข้อง}{3}{section.2}%
+\contentsline {section}{\numberline {3}ระเบียบวิธีวิจัย}{3}{section.3}%
+\contentsline {section}{\numberline {4}ผลการศึกษาและการวิเคราะห์}{3}{section.4}%
+\contentsline {section}{\numberline {5}การอภิปรายผล}{3}{section.5}%
+\contentsline {section}{\numberline {6}สรุปและข้อเสนอแนะ}{3}{section.6}%
+\contentsline {section}{\numberline {A}ภาคผนวก ก: คำศัพท์เทคนิค}{3}{appendix.A}%
+\contentsline {section}{\numberline {B}ภาคผนวก ข: ตารางเปรียบเทียบเทคโนโลยี}{3}{appendix.B}%
