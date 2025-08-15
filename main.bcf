@@ -3080,6 +3080,53 @@
     <bcf:citekey order="7" intorder="1">iso2025robotics</bcf:citekey>
     <bcf:citekey order="8" intorder="1">bi2016survey</bcf:citekey>
     <bcf:citekey order="9" intorder="1">hameed2017modular</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">liang2025decoding</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">bi2016survey</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">bi2016survey</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">hameed2017modular</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">hameed2017modular</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">seo2019modular</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">seo2019modular</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">wang2023robot</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">wang2023robot</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">post2023modular</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">post2023modular</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">liang2025decoding</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">liang2025decoding</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">krishnan2023deep</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">krishnan2023deep</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">ieee2023dynamic</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">ieee2023dynamic</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">sitti2021morphological</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">sitti2021morphological</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">li2025finite</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">li2025finite</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">tassi2024multimodal</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">tassi2024multimodal</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">yang2024body</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">yang2024body</bcf:citekey>
+    <bcf:citekey order="35" intorder="1">athar2023vistac</bcf:citekey>
+    <bcf:citekey order="36" intorder="1">athar2023vistac</bcf:citekey>
+    <bcf:citekey order="37" intorder="1">ieee2024compact</bcf:citekey>
+    <bcf:citekey order="38" intorder="1">ieee2024compact</bcf:citekey>
+    <bcf:citekey order="39" intorder="1">jin2021origami</bcf:citekey>
+    <bcf:citekey order="40" intorder="1">jin2021origami</bcf:citekey>
+    <bcf:citekey order="41" intorder="1">ieee2019continuous</bcf:citekey>
+    <bcf:citekey order="42" intorder="1">ieee2019continuous</bcf:citekey>
+    <bcf:citekey order="43" intorder="1">thuruthel2021survey</bcf:citekey>
+    <bcf:citekey order="44" intorder="1">thuruthel2021survey</bcf:citekey>
+    <bcf:citekey order="45" intorder="1">mohammadi2023mobile</bcf:citekey>
+    <bcf:citekey order="46" intorder="1">mohammadi2023mobile</bcf:citekey>
+    <bcf:citekey order="47" intorder="1">vitolo2022mobile</bcf:citekey>
+    <bcf:citekey order="48" intorder="1">vitolo2022mobile</bcf:citekey>
+    <bcf:citekey order="49" intorder="1">bostelman2016mobile</bcf:citekey>
+    <bcf:citekey order="50" intorder="1">bostelman2016mobile</bcf:citekey>
+    <bcf:citekey order="51" intorder="1">xie2024pose</bcf:citekey>
+    <bcf:citekey order="52" intorder="1">xie2024pose</bcf:citekey>
+    <bcf:citekey order="53" intorder="1">stueckler2023hollie</bcf:citekey>
+    <bcf:citekey order="54" intorder="1">stueckler2023hollie</bcf:citekey>
+    <bcf:citekey order="55" intorder="1">ieee2015prioritized</bcf:citekey>
+    <bcf:citekey order="56" intorder="1">ieee2015prioritized</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
