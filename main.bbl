@@ -60,6 +60,62 @@
       \verb 10.1177/1687814016659597
       \endverb
     \endentry
+    \entry{bostelman2016mobile}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c18987e187eb9990b424e6fc0c458522}{%
+           family={Bostelman},
+           familyi={B\bibinitperiod},
+           given={Roger\bibnamedelima V.},
+           giveni={R\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce4252a9a1bfd3472857eabfec9b8588}{%
+           family={Foufou},
+           familyi={F\bibinitperiod},
+           given={Sebti},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8baba1e06cc24719a776c9c1ae53100}{%
+           family={Legowik},
+           familyi={L\bibinitperiod},
+           given={Steven\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8dcbad375555682264a81da382ee9a30}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Tsai\bibnamedelima H.},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{2}{%
+        {National Institute of Standards}%
+        {Technology}%
+      }
+      \strng{namehash}{5b174dd1efd731730d26c3bae36f8566}
+      \strng{fullhash}{5de13b9c507bd81953a14504fbe58f91}
+      \strng{fullhashraw}{5de13b9c507bd81953a14504fbe58f91}
+      \strng{bibnamehash}{5de13b9c507bd81953a14504fbe58f91}
+      \strng{authorbibnamehash}{5de13b9c507bd81953a14504fbe58f91}
+      \strng{authornamehash}{5b174dd1efd731730d26c3bae36f8566}
+      \strng{authorfullhash}{5de13b9c507bd81953a14504fbe58f91}
+      \strng{authorfullhashraw}{5de13b9c507bd81953a14504fbe58f91}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 13th IFIP International Conference on Product Lifecycle Management (PLM16)}
+      \field{title}{Mobile manipulator performance measurement towards manufacturing assembly tasks}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://www.nist.gov/publications/mobile-manipulator-performance-measurement-towards-manufacturing-assembly-tasks
+      \endverb
+      \verb{url}
+      \verb https://www.nist.gov/publications/mobile-manipulator-performance-measurement-towards-manufacturing-assembly-tasks
+      \endverb
+    \endentry
     \entry{hameed2017modular}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=09b2e5f85c4549e35cbbe5ce5bbf45da}{%
@@ -112,6 +168,36 @@
       \verb 10.1155/2017/5013532
       \endverb
     \endentry
+    \entry{ieee2024compact}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=05b7830e33cce410974ce554f8a2da08}{%
+           family={{IEEE/ASME Contributors}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{05b7830e33cce410974ce554f8a2da08}
+      \strng{fullhash}{05b7830e33cce410974ce554f8a2da08}
+      \strng{fullhashraw}{05b7830e33cce410974ce554f8a2da08}
+      \strng{bibnamehash}{05b7830e33cce410974ce554f8a2da08}
+      \strng{authorbibnamehash}{05b7830e33cce410974ce554f8a2da08}
+      \strng{authornamehash}{05b7830e33cce410974ce554f8a2da08}
+      \strng{authorfullhash}{05b7830e33cce410974ce554f8a2da08}
+      \strng{authorfullhashraw}{05b7830e33cce410974ce554f8a2da08}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE/ASME Transactions on Mechatronics}
+      \field{title}{A compact variable stiffness actuator for agile legged locomotion}
+      \field{year}{2024}
+      \field{pages}{3409115}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1109/TMECH.2024.3409115
+      \endverb
+    \endentry
     \entry{iso2025robotics}{manual}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=7058e4bd76f877c52b621c942b30613c}{%
@@ -144,6 +230,53 @@
       \endverb
       \verb{url}
       \verb https://www.iso.org/standard/73933.html
+      \endverb
+    \endentry
+    \entry{krishnan2023deep}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c4e9eb83fb51986c2a41595ba89ce0bc}{%
+           family={Krishnan},
+           familyi={K\bibinitperiod},
+           given={Gokul},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9bf7176536452549fe859500e2a8e91b}{%
+           family={Pillai},
+           familyi={P\bibinitperiod},
+           given={Harikrishnan},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5340f5a6c3e57412f60b3587c35f0ad1}{%
+           family={Garg},
+           familyi={G\bibinitperiod},
+           given={Sahil},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f995096a84d0e4f0cf00c9497ae828b4}
+      \strng{fullhash}{ad473ba5d54a808f9f482eae5ccd1e73}
+      \strng{fullhashraw}{ad473ba5d54a808f9f482eae5ccd1e73}
+      \strng{bibnamehash}{ad473ba5d54a808f9f482eae5ccd1e73}
+      \strng{authorbibnamehash}{ad473ba5d54a808f9f482eae5ccd1e73}
+      \strng{authornamehash}{f995096a84d0e4f0cf00c9497ae828b4}
+      \strng{authorfullhash}{ad473ba5d54a808f9f482eae5ccd1e73}
+      \strng{authorfullhashraw}{ad473ba5d54a808f9f482eae5ccd1e73}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ASME Journal of Computing and Information Science in Engineering}
+      \field{number}{6}
+      \field{title}{Deep Learning-driven design of robot mechanisms}
+      \field{volume}{23}
+      \field{year}{2023}
+      \field{pages}{060811}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1115/1.4062745
       \endverb
     \endentry
     \entry{liang2025decoding}{article}{}{}
@@ -351,6 +484,72 @@
       \verb 10.1146/annurev-control-053018-023834
       \endverb
     \endentry
+    \entry{stueckler2023hollie}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=8ae2113e92a5f3e7f981fe445a079c7e}{%
+           family={Stueckler},
+           familyi={S\bibinitperiod},
+           given={Jörg},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ffe8b5a0b01710333e7a1b95c3a23f39}{%
+           family={Kohlbrecher},
+           familyi={K\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=caccf52a9bcef49fdf5dd218bc6699ac}{%
+           family={Schwarz},
+           familyi={S\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac744516ff8fdbdd0b5280448502caeb}{%
+           family={Droeschel},
+           familyi={D\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ad7d83cf1d59ba5b0738a4e84299927}{%
+           family={Stückler},
+           familyi={S\bibinitperiod},
+           given={Jörg},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3110caa22b682a3c7f48017d49dccc6b}{%
+           family={Behnke},
+           familyi={B\bibinitperiod},
+           given={Sven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2eb1bc3bfb7d06a406496bfaa0115777}
+      \strng{fullhash}{8770b65c6a55b6039b4e7b1bc21ed0d3}
+      \strng{fullhashraw}{8770b65c6a55b6039b4e7b1bc21ed0d3}
+      \strng{bibnamehash}{8770b65c6a55b6039b4e7b1bc21ed0d3}
+      \strng{authorbibnamehash}{8770b65c6a55b6039b4e7b1bc21ed0d3}
+      \strng{authornamehash}{2eb1bc3bfb7d06a406496bfaa0115777}
+      \strng{authorfullhash}{8770b65c6a55b6039b4e7b1bc21ed0d3}
+      \strng{authorfullhashraw}{8770b65c6a55b6039b4e7b1bc21ed0d3}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2312.06292}
+      \field{title}{HoLLiE C -- A multifunctional bimanual mobile robot supporting versatile care applications}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2312.06292
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2312.06292
+      \endverb
+    \endentry
     \entry{tassi2024multimodal}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=8bbc55ede4c4d74c883e9984ae915fd4}{%
@@ -392,6 +591,124 @@
       \range{pages}{1}
       \verb{doi}
       \verb 10.1007/s10846-024-02193-1
+      \endverb
+    \endentry
+    \entry{vitolo2022mobile}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=77d996d89d88c68ae7d593e2e2b2b0d6}{%
+           family={Vitolo},
+           familyi={V\bibinitperiod},
+           given={Ferdinando},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0d584d867c03980112b646b45e3933c0}{%
+           family={Rega},
+           familyi={R\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1ee1f94431113ce40ea43cb6443d873}{%
+           family={Di\bibnamedelima Marino},
+           familyi={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Claudio},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5b189e5d98c610a800557ca75a7a55ce}{%
+           family={Pasquariello},
+           familyi={P\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f63ad56322cf81d7a8eeb09e857c08df}{%
+           family={Zanella},
+           familyi={Z\bibinitperiod},
+           given={Angelo},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=70a336d9f586f3e92b017d11bb2ebc86}{%
+           family={Patalano},
+           familyi={P\bibinitperiod},
+           given={Stanislao},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{01024ad741db4dc8a71138115fa9d063}
+      \strng{fullhash}{dade619f2714a11552aaf8e5bd190ede}
+      \strng{fullhashraw}{dade619f2714a11552aaf8e5bd190ede}
+      \strng{bibnamehash}{dade619f2714a11552aaf8e5bd190ede}
+      \strng{authorbibnamehash}{dade619f2714a11552aaf8e5bd190ede}
+      \strng{authornamehash}{01024ad741db4dc8a71138115fa9d063}
+      \strng{authorfullhash}{dade619f2714a11552aaf8e5bd190ede}
+      \strng{authorfullhashraw}{dade619f2714a11552aaf8e5bd190ede}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Sciences}
+      \field{number}{1}
+      \field{title}{Mobile robots and cobots integration: A preliminary design of a mechatronic interface by using MBSE approach}
+      \field{volume}{12}
+      \field{year}{2022}
+      \field{pages}{419}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/app12010419
+      \endverb
+    \endentry
+    \entry{xie2024pose}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=41e177ac830829f67c7d9070fd16a419}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Yanling},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d85b5da2845a8684cd3f4348a5703722}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Juntong},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6cfe86a46102c12d2bfdc673e1ed7335}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Yiting},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Emerald Publishing}%
+      }
+      \strng{namehash}{c7f2a02bc6899ae93e8fad75b82c04d5}
+      \strng{fullhash}{58d6fb98705edc76b3271bc35af89b62}
+      \strng{fullhashraw}{58d6fb98705edc76b3271bc35af89b62}
+      \strng{bibnamehash}{58d6fb98705edc76b3271bc35af89b62}
+      \strng{authorbibnamehash}{58d6fb98705edc76b3271bc35af89b62}
+      \strng{authornamehash}{c7f2a02bc6899ae93e8fad75b82c04d5}
+      \strng{authorfullhash}{58d6fb98705edc76b3271bc35af89b62}
+      \strng{authorfullhashraw}{58d6fb98705edc76b3271bc35af89b62}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Industrial Robot}
+      \field{number}{1}
+      \field{title}{Pose optimization for mobile manipulator grasping based on hybrid manipulability}
+      \field{volume}{51}
+      \field{year}{2024}
+      \field{pages}{134\bibrangedash 147}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1108/IR-06-2023-0128
       \endverb
     \endentry
     \entry{yang2024body}{article}{}{}
@@ -495,6 +812,62 @@
       \verb 10.1177/1687814016659597
       \endverb
     \endentry
+    \entry{bostelman2016mobile}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c18987e187eb9990b424e6fc0c458522}{%
+           family={Bostelman},
+           familyi={B\bibinitperiod},
+           given={Roger\bibnamedelima V.},
+           giveni={R\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce4252a9a1bfd3472857eabfec9b8588}{%
+           family={Foufou},
+           familyi={F\bibinitperiod},
+           given={Sebti},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8baba1e06cc24719a776c9c1ae53100}{%
+           family={Legowik},
+           familyi={L\bibinitperiod},
+           given={Steven\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8dcbad375555682264a81da382ee9a30}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Tsai\bibnamedelima H.},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{2}{%
+        {National Institute of Standards}%
+        {Technology}%
+      }
+      \strng{namehash}{5b174dd1efd731730d26c3bae36f8566}
+      \strng{fullhash}{5de13b9c507bd81953a14504fbe58f91}
+      \strng{fullhashraw}{5de13b9c507bd81953a14504fbe58f91}
+      \strng{bibnamehash}{5de13b9c507bd81953a14504fbe58f91}
+      \strng{authorbibnamehash}{5de13b9c507bd81953a14504fbe58f91}
+      \strng{authornamehash}{5b174dd1efd731730d26c3bae36f8566}
+      \strng{authorfullhash}{5de13b9c507bd81953a14504fbe58f91}
+      \strng{authorfullhashraw}{5de13b9c507bd81953a14504fbe58f91}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 13th IFIP International Conference on Product Lifecycle Management (PLM16)}
+      \field{title}{Mobile manipulator performance measurement towards manufacturing assembly tasks}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://www.nist.gov/publications/mobile-manipulator-performance-measurement-towards-manufacturing-assembly-tasks
+      \endverb
+      \verb{url}
+      \verb https://www.nist.gov/publications/mobile-manipulator-performance-measurement-towards-manufacturing-assembly-tasks
+      \endverb
+    \endentry
     \entry{hameed2017modular}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=09b2e5f85c4549e35cbbe5ce5bbf45da}{%
@@ -547,6 +920,36 @@
       \verb 10.1155/2017/5013532
       \endverb
     \endentry
+    \entry{ieee2024compact}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=05b7830e33cce410974ce554f8a2da08}{%
+           family={{IEEE/ASME Contributors}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{05b7830e33cce410974ce554f8a2da08}
+      \strng{fullhash}{05b7830e33cce410974ce554f8a2da08}
+      \strng{fullhashraw}{05b7830e33cce410974ce554f8a2da08}
+      \strng{bibnamehash}{05b7830e33cce410974ce554f8a2da08}
+      \strng{authorbibnamehash}{05b7830e33cce410974ce554f8a2da08}
+      \strng{authornamehash}{05b7830e33cce410974ce554f8a2da08}
+      \strng{authorfullhash}{05b7830e33cce410974ce554f8a2da08}
+      \strng{authorfullhashraw}{05b7830e33cce410974ce554f8a2da08}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE/ASME Transactions on Mechatronics}
+      \field{title}{A compact variable stiffness actuator for agile legged locomotion}
+      \field{year}{2024}
+      \field{pages}{3409115}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1109/TMECH.2024.3409115
+      \endverb
+    \endentry
     \entry{iso2025robotics}{manual}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=7058e4bd76f877c52b621c942b30613c}{%
@@ -579,6 +982,53 @@
       \endverb
       \verb{url}
       \verb https://www.iso.org/standard/73933.html
+      \endverb
+    \endentry
+    \entry{krishnan2023deep}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c4e9eb83fb51986c2a41595ba89ce0bc}{%
+           family={Krishnan},
+           familyi={K\bibinitperiod},
+           given={Gokul},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9bf7176536452549fe859500e2a8e91b}{%
+           family={Pillai},
+           familyi={P\bibinitperiod},
+           given={Harikrishnan},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5340f5a6c3e57412f60b3587c35f0ad1}{%
+           family={Garg},
+           familyi={G\bibinitperiod},
+           given={Sahil},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f995096a84d0e4f0cf00c9497ae828b4}
+      \strng{fullhash}{ad473ba5d54a808f9f482eae5ccd1e73}
+      \strng{fullhashraw}{ad473ba5d54a808f9f482eae5ccd1e73}
+      \strng{bibnamehash}{ad473ba5d54a808f9f482eae5ccd1e73}
+      \strng{authorbibnamehash}{ad473ba5d54a808f9f482eae5ccd1e73}
+      \strng{authornamehash}{f995096a84d0e4f0cf00c9497ae828b4}
+      \strng{authorfullhash}{ad473ba5d54a808f9f482eae5ccd1e73}
+      \strng{authorfullhashraw}{ad473ba5d54a808f9f482eae5ccd1e73}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ASME Journal of Computing and Information Science in Engineering}
+      \field{number}{6}
+      \field{title}{Deep Learning-driven design of robot mechanisms}
+      \field{volume}{23}
+      \field{year}{2023}
+      \field{pages}{060811}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1115/1.4062745
       \endverb
     \endentry
     \entry{liang2025decoding}{article}{}{}
@@ -786,6 +1236,72 @@
       \verb 10.1146/annurev-control-053018-023834
       \endverb
     \endentry
+    \entry{stueckler2023hollie}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=8ae2113e92a5f3e7f981fe445a079c7e}{%
+           family={Stueckler},
+           familyi={S\bibinitperiod},
+           given={Jörg},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ffe8b5a0b01710333e7a1b95c3a23f39}{%
+           family={Kohlbrecher},
+           familyi={K\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=caccf52a9bcef49fdf5dd218bc6699ac}{%
+           family={Schwarz},
+           familyi={S\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac744516ff8fdbdd0b5280448502caeb}{%
+           family={Droeschel},
+           familyi={D\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ad7d83cf1d59ba5b0738a4e84299927}{%
+           family={Stückler},
+           familyi={S\bibinitperiod},
+           given={Jörg},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3110caa22b682a3c7f48017d49dccc6b}{%
+           family={Behnke},
+           familyi={B\bibinitperiod},
+           given={Sven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2eb1bc3bfb7d06a406496bfaa0115777}
+      \strng{fullhash}{8770b65c6a55b6039b4e7b1bc21ed0d3}
+      \strng{fullhashraw}{8770b65c6a55b6039b4e7b1bc21ed0d3}
+      \strng{bibnamehash}{8770b65c6a55b6039b4e7b1bc21ed0d3}
+      \strng{authorbibnamehash}{8770b65c6a55b6039b4e7b1bc21ed0d3}
+      \strng{authornamehash}{2eb1bc3bfb7d06a406496bfaa0115777}
+      \strng{authorfullhash}{8770b65c6a55b6039b4e7b1bc21ed0d3}
+      \strng{authorfullhashraw}{8770b65c6a55b6039b4e7b1bc21ed0d3}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2312.06292}
+      \field{title}{HoLLiE C -- A multifunctional bimanual mobile robot supporting versatile care applications}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2312.06292
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2312.06292
+      \endverb
+    \endentry
     \entry{tassi2024multimodal}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=8bbc55ede4c4d74c883e9984ae915fd4}{%
@@ -827,6 +1343,124 @@
       \range{pages}{1}
       \verb{doi}
       \verb 10.1007/s10846-024-02193-1
+      \endverb
+    \endentry
+    \entry{vitolo2022mobile}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=77d996d89d88c68ae7d593e2e2b2b0d6}{%
+           family={Vitolo},
+           familyi={V\bibinitperiod},
+           given={Ferdinando},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0d584d867c03980112b646b45e3933c0}{%
+           family={Rega},
+           familyi={R\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1ee1f94431113ce40ea43cb6443d873}{%
+           family={Di\bibnamedelima Marino},
+           familyi={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Claudio},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5b189e5d98c610a800557ca75a7a55ce}{%
+           family={Pasquariello},
+           familyi={P\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f63ad56322cf81d7a8eeb09e857c08df}{%
+           family={Zanella},
+           familyi={Z\bibinitperiod},
+           given={Angelo},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=70a336d9f586f3e92b017d11bb2ebc86}{%
+           family={Patalano},
+           familyi={P\bibinitperiod},
+           given={Stanislao},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{01024ad741db4dc8a71138115fa9d063}
+      \strng{fullhash}{dade619f2714a11552aaf8e5bd190ede}
+      \strng{fullhashraw}{dade619f2714a11552aaf8e5bd190ede}
+      \strng{bibnamehash}{dade619f2714a11552aaf8e5bd190ede}
+      \strng{authorbibnamehash}{dade619f2714a11552aaf8e5bd190ede}
+      \strng{authornamehash}{01024ad741db4dc8a71138115fa9d063}
+      \strng{authorfullhash}{dade619f2714a11552aaf8e5bd190ede}
+      \strng{authorfullhashraw}{dade619f2714a11552aaf8e5bd190ede}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Sciences}
+      \field{number}{1}
+      \field{title}{Mobile robots and cobots integration: A preliminary design of a mechatronic interface by using MBSE approach}
+      \field{volume}{12}
+      \field{year}{2022}
+      \field{pages}{419}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/app12010419
+      \endverb
+    \endentry
+    \entry{xie2024pose}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=41e177ac830829f67c7d9070fd16a419}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Yanling},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d85b5da2845a8684cd3f4348a5703722}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Juntong},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6cfe86a46102c12d2bfdc673e1ed7335}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Yiting},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Emerald Publishing}%
+      }
+      \strng{namehash}{c7f2a02bc6899ae93e8fad75b82c04d5}
+      \strng{fullhash}{58d6fb98705edc76b3271bc35af89b62}
+      \strng{fullhashraw}{58d6fb98705edc76b3271bc35af89b62}
+      \strng{bibnamehash}{58d6fb98705edc76b3271bc35af89b62}
+      \strng{authorbibnamehash}{58d6fb98705edc76b3271bc35af89b62}
+      \strng{authornamehash}{c7f2a02bc6899ae93e8fad75b82c04d5}
+      \strng{authorfullhash}{58d6fb98705edc76b3271bc35af89b62}
+      \strng{authorfullhashraw}{58d6fb98705edc76b3271bc35af89b62}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Industrial Robot}
+      \field{number}{1}
+      \field{title}{Pose optimization for mobile manipulator grasping based on hybrid manipulability}
+      \field{volume}{51}
+      \field{year}{2024}
+      \field{pages}{134\bibrangedash 147}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1108/IR-06-2023-0128
       \endverb
     \endentry
     \entry{yang2024body}{article}{}{}
