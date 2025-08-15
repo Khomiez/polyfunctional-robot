@@ -1,9 +1,14 @@
 \xpg@aux {}{thai}
 \contentsline {section}{\numberline {1}บทนำ}{3}{section.1}%
-\contentsline {section}{\numberline {2}การทบทวนวรรณกรรมที่เกี่ยวข้อง}{3}{section.2}%
-\contentsline {section}{\numberline {3}ระเบียบวิธีวิจัย}{3}{section.3}%
-\contentsline {section}{\numberline {4}ผลการศึกษาและการวิเคราะห์}{3}{section.4}%
-\contentsline {section}{\numberline {5}การอภิปรายผล}{3}{section.5}%
-\contentsline {section}{\numberline {6}สรุปและข้อเสนอแนะ}{3}{section.6}%
-\contentsline {section}{\numberline {A}ภาคผนวก ก: คำศัพท์เทคนิค}{3}{appendix.A}%
-\contentsline {section}{\numberline {B}ภาคผนวก ข: ตารางเปรียบเทียบเทคโนโลยี}{3}{appendix.B}%
+\contentsline {subsection}{\numberline {1.1}วัตถุประสงค์ของการศึกษา}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}ขอบเขตการศึกษา}{4}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}คำจำกัดความสำคัญ}{4}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}ระเบียบวิธีการศึกษา}{5}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}ประโยชน์ที่คาดว่าจะได้รับ}{5}{subsection.1.5}%
+\contentsline {section}{\numberline {2}การทบทวนวรรณกรรมที่เกี่ยวข้อง}{6}{section.2}%
+\contentsline {section}{\numberline {3}ระเบียบวิธีวิจัย}{6}{section.3}%
+\contentsline {section}{\numberline {4}ผลการศึกษาและการวิเคราะห์}{6}{section.4}%
+\contentsline {section}{\numberline {5}การอภิปรายผล}{6}{section.5}%
+\contentsline {section}{\numberline {6}สรุปและข้อเสนอแนะ}{6}{section.6}%
+\contentsline {section}{\numberline {A}ภาคผนวก ก: คำศัพท์เทคนิค}{7}{appendix.A}%
+\contentsline {section}{\numberline {B}ภาคผนวก ข: ตารางเปรียบเทียบเทคโนโลยี}{7}{appendix.B}%
