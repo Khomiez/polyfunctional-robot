@@ -13,8 +13,13 @@
 \contentsline {subsection}{\numberline {2.4}การประยุกต์ใช้ในภาคอุตสาหกรรม}{9}{subsection.2.4}%
 \contentsline {subsection}{\numberline {2.5}ช่องว่างความรู้และแนวทางการวิจัย}{10}{subsection.2.5}%
 \contentsline {section}{\numberline {3}ระเบียบวิธีวิจัย}{12}{section.3}%
-\contentsline {section}{\numberline {4}ผลการศึกษาและการวิเคราะห์}{12}{section.4}%
-\contentsline {section}{\numberline {5}การอภิปรายผล}{12}{section.5}%
-\contentsline {section}{\numberline {6}สรุปและข้อเสนอแนะ}{12}{section.6}%
-\contentsline {section}{\numberline {A}ภาคผนวก ก: คำศัพท์เทคนิค}{15}{appendix.A}%
-\contentsline {section}{\numberline {B}ภาคผนวก ข: ตารางเปรียบเทียบเทคโนโลยี}{15}{appendix.B}%
+\contentsline {subsection}{\numberline {3.1}แนวทางการศึกษา}{12}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}การรวบรวมข้อมูล}{13}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}เกณฑ์การคัดเลือกแหล่งข้อมูล}{13}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}การวิเคราะห์และสังเคราะห์ข้อมูล}{14}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}ข้อจำกัดของการศึกษา}{14}{subsection.3.5}%
+\contentsline {section}{\numberline {4}ผลการศึกษาและการวิเคราะห์}{15}{section.4}%
+\contentsline {section}{\numberline {5}การอภิปรายผล}{15}{section.5}%
+\contentsline {section}{\numberline {6}สรุปและข้อเสนอแนะ}{15}{section.6}%
+\contentsline {section}{\numberline {A}ภาคผนวก ก: คำศัพท์เทคนิค}{18}{appendix.A}%
+\contentsline {section}{\numberline {B}ภาคผนวก ข: ตารางเปรียบเทียบเทคโนโลยี}{18}{appendix.B}%
