@@ -15,11 +15,11 @@
 \contentsline {section}{\numberline {3}ระเบียบวิธีวิจัย}{12}{section.3}%
 \contentsline {subsection}{\numberline {3.1}แนวทางการศึกษา}{12}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}การรวบรวมข้อมูล}{13}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}เกณฑ์การคัดเลือกแหล่งข้อมูล}{13}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}การวิเคราะห์และสังเคราะห์ข้อมูล}{14}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5}ข้อจำกัดของการศึกษา}{14}{subsection.3.5}%
-\contentsline {section}{\numberline {4}ผลการศึกษาและการวิเคราะห์}{15}{section.4}%
-\contentsline {section}{\numberline {5}การอภิปรายผล}{15}{section.5}%
-\contentsline {section}{\numberline {6}สรุปและข้อเสนอแนะ}{15}{section.6}%
-\contentsline {section}{\numberline {A}ภาคผนวก ก: คำศัพท์เทคนิค}{17}{appendix.A}%
-\contentsline {section}{\numberline {B}ภาคผนวก ข: ตารางเปรียบเทียบเทคโนโลยี}{17}{appendix.B}%
+\contentsline {subsection}{\numberline {3.3}เกณฑ์การคัดเลือกแหล่งข้อมูล}{15}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}การวิเคราะห์และสังเคราะห์ข้อมูล}{16}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}ข้อจำกัดของการศึกษา}{17}{subsection.3.5}%
+\contentsline {section}{\numberline {4}ผลการศึกษาและการวิเคราะห์}{19}{section.4}%
+\contentsline {section}{\numberline {5}การอภิปรายผล}{19}{section.5}%
+\contentsline {section}{\numberline {6}สรุปและข้อเสนอแนะ}{19}{section.6}%
+\contentsline {section}{\numberline {A}ภาคผนวก ก: คำศัพท์เทคนิค}{21}{appendix.A}%
+\contentsline {section}{\numberline {B}ภาคผนวก ข: ตารางเปรียบเทียบเทคโนโลยี}{21}{appendix.B}%

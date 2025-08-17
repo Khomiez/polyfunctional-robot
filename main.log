@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.8.12)  17 AUG 2025 22:07
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.8.12)  17 AUG 2025 22:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1046,26 +1046,40 @@ Missing character: There is no ウ in font TH Sarabun New/OT:script=thai;languag
 [12]
 
 [13]
+Underfull \hbox (badness 1077) in paragraph at lines 420--421
+[]\TU/THSarabunNew(0)/b/n/16 รายงาน การ ประชุม วิชาการ นานาชาติ: \TU/THSarabunN
+ew(0)/m/n/16 IEEE International Conference on Robotics and
+ []
+
+
 
 [14]
-LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/it' will be
-(Font)              scaled to size 16.0pt on input line 460.
-
 
 [15]
+
+[16]
+
+[17]
+
+[18]
+LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/it' will be
+(Font)              scaled to size 16.0pt on input line 544.
+
 Missing character: There is no ż in font TH Sarabun New/OT:script=thai;language
 =dflt;letterspace=0.0;!
 
-Underfull \hbox (badness 1852) in paragraph at lines 460--460
+
+[19]
+Underfull \hbox (badness 1852) in paragraph at lines 544--544
 [][]\TU/THSarabunNew(0)/m/n/16 Li, H., & Li, Y. (2025). Finite element analysis
  and structural optimization design of
  []
 
 
 
-[16]
+[20]
 
-[17] (main.aux)
+[21] (main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-20>
@@ -1082,12 +1096,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21189 strings out of 403250
- 423695 string characters out of 5460888
- 1453635 words of memory out of 5000000
- 49417 multiletter control sequences out of 15000+600000
+ 21193 strings out of 403250
+ 423815 string characters out of 5460888
+ 1454635 words of memory out of 5000000
+ 49421 multiletter control sequences out of 15000+600000
  632071 words of font info for 96 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  73i,6n,95p,726b,5237s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (20 pages).
+Output written on main.pdf (24 pages).
