@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.8.12)  17 AUG 2025 21:09
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.8.12)  17 AUG 2025 22:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1029,6 +1029,13 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <16> not available
 [7]
 
 [8]
+Missing character: There is no ​ in font TH Sarabun New/OT:script=thai;language
+=dflt;letterspace=0.0;!
+Missing character: There is no ي in font TH Sarabun New/OT:script=thai;language
+=dflt;letterspace=0.0;!
+Missing character: There is no ウ in font TH Sarabun New/OT:script=thai;language
+=dflt;letterspace=0.0;!
+
 
 [9]
 
@@ -1042,31 +1049,23 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <16> not available
 
 [14]
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/it' will be
-(Font)              scaled to size 16.0pt on input line 459.
+(Font)              scaled to size 16.0pt on input line 460.
 
 
 [15]
 Missing character: There is no ż in font TH Sarabun New/OT:script=thai;language
 =dflt;letterspace=0.0;!
 
-Underfull \hbox (badness 1292) in paragraph at lines 459--459
-[][]\TU/THSarabunNew(0)/m/n/16 IEEE/ ASME Contributors. (2024). A compact varia
-ble stiffness actuator for agile legged
- []
-
-
-
-[16]
-Underfull \hbox (badness 1852) in paragraph at lines 459--459
+Underfull \hbox (badness 1852) in paragraph at lines 460--460
 [][]\TU/THSarabunNew(0)/m/n/16 Li, H., & Li, Y. (2025). Finite element analysis
  and structural optimization design of
  []
 
 
 
-[17]
+[16]
 
-[18] (main.aux)
+[17] (main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-20>
@@ -1083,12 +1082,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21227 strings out of 403250
- 425192 string characters out of 5460888
- 1455110 words of memory out of 5000000
- 49455 multiletter control sequences out of 15000+600000
+ 21189 strings out of 403250
+ 423695 string characters out of 5460888
+ 1453635 words of memory out of 5000000
+ 49417 multiletter control sequences out of 15000+600000
  632071 words of font info for 96 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  73i,6n,95p,726b,5237s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (21 pages).
+Output written on main.pdf (20 pages).
