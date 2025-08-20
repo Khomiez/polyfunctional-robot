@@ -19,7 +19,12 @@
 \contentsline {subsection}{\numberline {3.4}การวิเคราะห์และสังเคราะห์ข้อมูล}{16}{subsection.3.4}%
 \contentsline {subsection}{\numberline {3.5}ข้อจำกัดของการศึกษา}{17}{subsection.3.5}%
 \contentsline {section}{\numberline {4}ผลการศึกษาและการวิเคราะห์}{19}{section.4}%
-\contentsline {section}{\numberline {5}การอภิปรายผล}{19}{section.5}%
-\contentsline {section}{\numberline {6}สรุปและข้อเสนอแนะ}{19}{section.6}%
-\contentsline {section}{\numberline {A}ภาคผนวก ก: คำศัพท์เทคนิค}{21}{appendix.A}%
-\contentsline {section}{\numberline {B}ภาคผนวก ข: ตารางเปรียบเทียบเทคโนโลยี}{21}{appendix.B}%
+\contentsline {subsection}{\numberline {4.1}การวิเคราะห์เชิงเปรียบเทียบเทคโนโลยี}{19}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}การประเมินประสิทธิภาพและข้อจำกัด}{20}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}แนวโน้มการพัฒนาและทิศทางอนาคต}{21}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}ความท้าทายและปัจจัยสำคัญ}{22}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}กรอบแนวคิดเชิงบูรณาการ}{23}{subsection.4.5}%
+\contentsline {section}{\numberline {5}การอภิปรายผล}{25}{section.5}%
+\contentsline {section}{\numberline {6}สรุปและข้อเสนอแนะ}{25}{section.6}%
+\contentsline {section}{\numberline {A}ภาคผนวก ก: คำศัพท์เทคนิค}{27}{appendix.A}%
+\contentsline {section}{\numberline {B}ภาคผนวก ข: ตารางเปรียบเทียบเทคโนโลยี}{27}{appendix.B}%
