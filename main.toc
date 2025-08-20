@@ -35,4 +35,12 @@
 \contentsline {subsection}{\numberline {6.3}ข้อเสนอแนะสำหรับการนำไปประยุกต์ใช้}{33}{subsection.6.3}%
 \contentsline {subsection}{\numberline {6.4}คำสุดท้าย}{34}{subsection.6.4}%
 \contentsline {section}{\numberline {A}ภาคผนวก ก: คำศัพท์เทคนิค}{37}{appendix.A}%
-\contentsline {section}{\numberline {B}ภาคผนวก ข: ตารางเปรียบเทียบเทคโนโลยี}{37}{appendix.B}%
+\contentsline {section}{\numberline {B}ภาคผนวก ข: ตารางเปรียบเทียบเทคโนโลยี}{39}{appendix.B}%
+\contentsline {subsection}{\numberline {B.1}ตารางที่ 1: การเปรียบเทียบประเภทหุ่นยนต์อเนกประสงค์}{39}{subsection.B.1}%
+\contentsline {subsection}{\numberline {B.2}ตารางที่ 2: การเปรียบเทียบเทคโนโลยีหลักของหุ่นยนต์อเนกประสงค์}{40}{subsection.B.2}%
+\contentsline {subsection}{\numberline {B.3}ตารางที่ 3: การเปรียบเทียบการประยุกต์ใช้ในภาคอุตสาหกรรม}{40}{subsection.B.3}%
+\contentsline {subsection}{\numberline {B.4}ตารางที่ 4: การวิเคราะห์ SWOT ของหุ่นยนต์อเนกประสงค์}{40}{subsection.B.4}%
+\contentsline {subsection}{\numberline {B.5}ตารางที่ 5: เมตริกการประเมินประสิทธิภาพ}{40}{subsection.B.5}%
+\contentsline {subsection}{\numberline {B.6}ตารางที่ 6: แผนการพัฒนาเทคโนโลยี (Technology Roadmap)}{42}{subsection.B.6}%
+\contentsline {subsection}{\numberline {B.7}ตารางที่ 7: เกณฑ์การประเมินและมาตรฐาน}{42}{subsection.B.7}%
+\contentsline {subsection}{\numberline {B.8}ตารางที่ 8: แนวทางการพัฒนาทรัพยากรมนุษย์}{42}{subsection.B.8}%

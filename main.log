@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.8.12)  20 AUG 2025 14:18
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.8.12)  20 AUG 2025 14:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1112,7 +1112,127 @@ Underfull \hbox (badness 1852) in paragraph at lines 835--835
 
 [36]
 
-[37] (main.aux)
+[37]
+
+[38]
+LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
+(Font)              scaled to size 9.0pt on input line 914.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 916.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 916.
+LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
+(Font)              scaled to size 9.0pt on input line 918.
+
+Underfull \hbox (badness 10000) in paragraph at lines 920--920
+[]\TU/THSarabunNew(0)/m/n/9 กลไก หลัก สำหรับความ
+ []
+
+
+Underfull \hbox (badness 1371) in paragraph at lines 920--920
+[]\TU/THSarabunNew(0)/m/n/9 การ ออกแบบ ฮาร์ดแวร์ ที่ ประกอบ จาก โมดูล
+ []
+
+
+Underfull \hbox (badness 1502) in paragraph at lines 924--924
+[]\TU/THSarabunNew(0)/m/n/9 ความ เป็น อิสระ ใน การปรับ
+ []
+
+
+Overfull \hbox (7.59705pt too wide) in paragraph at lines 916--939
+ [][] 
+ []
+
+
+
+[39]
+Overfull \hbox (19.59703pt too wide) in paragraph at lines 950--967
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 983--983
+[]\TU/THSarabunNew(0)/m/n/9 ความ ซับ ซ้อน ของ ผลิตภัณฑ์,
+ []
+
+
+Underfull \hbox (badness 2103) in paragraph at lines 985--985
+[]\TU/THSarabunNew(0)/m/n/9 ความ หลาก หลาย ของ ผลิตภัณฑ์,
+ []
+
+
+Overfull \hbox (48.04979pt too wide) in paragraph at lines 977--994
+ [][] 
+ []
+
+
+Underfull \hbox (badness 1237) in paragraph at lines 1066--1066
+[]\TU/THSarabunNew(0)/m/n/9 เวลา การ เปลี่ยน งาน (Task Switching
+ []
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 1068--1068
+[]\TU/THSarabunNew(0)/m/n/9 ความ แม่นยำ ใน การ ปฏิบัติ งาน (Task
+ []
+
+
+Underfull \hbox (badness 3690) in paragraph at lines 1070--1070
+[]\TU/THSarabunNew(0)/m/n/9 ประสิทธิภาพ การ ใช้ พลังงาน (Energy
+ []
+
+
+Overfull \hbox (19.59703pt too wide) in paragraph at lines 1062--1083
+ [][] 
+ []
+
+
+
+[40
+
+]
+
+[41]
+Underfull \hbox (badness 1092) in paragraph at lines 1102--1104
+[]\TU/THSarabunNew(0)/m/n/9 • โมเดล พื้น ฐาน AI • วัสดุ อัจฉริยะ •
+ []
+
+
+Underfull \hbox (badness 1354) in paragraph at lines 1114--1116
+[]\TU/THSarabunNew(0)/m/n/9 • การ ประมวล ผล เชิง ชีวภาพ • นาโน
+ []
+
+
+Overfull \hbox (33.82341pt too wide) in paragraph at lines 1092--1121
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1133--1133
+[]\TU/THSarabunNew(0)/m/n/9 International Organization for
+ []
+
+
+Underfull \hbox (badness 5245) in paragraph at lines 1145--1145
+[]\TU/THSarabunNew(0)/m/n/9 Institute of Electrical and Electronics
+ []
+
+
+Overfull \hbox (7.59705pt too wide) in paragraph at lines 1129--1158
+ [][] 
+ []
+
+
+Overfull \hbox (19.59703pt too wide) in paragraph at lines 1166--1196
+ [][] 
+ []
+
+
+
+[42
+
+]
+
+[43] (main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-20>
@@ -1123,18 +1243,18 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.28pt have occurred.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 2F69A1EE20476F231AF76997B2F3477C;8917.
+(rerunfilecheck)             Checksum: 9DABCF9AB750CCF06A278A4A831138B4;12382.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21219 strings out of 403250
- 424101 string characters out of 5460888
- 1458354 words of memory out of 5000000
- 49447 multiletter control sequences out of 15000+600000
- 632071 words of font info for 96 fonts, out of 8000000 for 9000
+ 21239 strings out of 403250
+ 424604 string characters out of 5460888
+ 1476903 words of memory out of 5000000
+ 49460 multiletter control sequences out of 15000+600000
+ 633015 words of font info for 103 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 73i,6n,95p,726b,5237s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,11n,95p,726b,5237s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (41 pages).
+Output written on main.pdf (47 pages).
