@@ -19,6 +19,8 @@
   Scale=1.0
 ]
 \setmainfont{TH Sarabun New}
+\setsansfont{TH Sarabun New}
+\setmonofont{Consolas}[Scale=MatchLowercase]
 
 % Enable Thai line breaking and hyphenation
 \XeTeXlinebreaklocale "th"
@@ -52,7 +54,7 @@
 % Essential packages
 \usepackage[hidelinks]{hyperref}
 \usepackage{booktabs}
-\usepackage{csquotes}
+\usepackage[style=american]{csquotes}
 
 % Thai text formatting improvements for formal documents
 \usepackage{ragged2e}
@@ -63,6 +65,7 @@
 % Bibliography setup for APA
 \usepackage[style=apa,backend=biber]{biblatex}
 \DeclareLanguageMapping{english}{english-apa}
+\DeclareLanguageMapping{thai}{english-apa}
 \addbibresource{references.bib}
 
 % Thai alphabet page numbering - complete implementation
