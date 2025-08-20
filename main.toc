@@ -25,6 +25,10 @@
 \contentsline {subsection}{\numberline {4.4}ความท้าทายและปัจจัยสำคัญ}{22}{subsection.4.4}%
 \contentsline {subsection}{\numberline {4.5}กรอบแนวคิดเชิงบูรณาการ}{23}{subsection.4.5}%
 \contentsline {section}{\numberline {5}การอภิปรายผล}{25}{section.5}%
-\contentsline {section}{\numberline {6}สรุปและข้อเสนอแนะ}{25}{section.6}%
-\contentsline {section}{\numberline {A}ภาคผนวก ก: คำศัพท์เทคนิค}{27}{appendix.A}%
-\contentsline {section}{\numberline {B}ภาคผนวก ข: ตารางเปรียบเทียบเทคโนโลยี}{27}{appendix.B}%
+\contentsline {subsection}{\numberline {5.1}การอภิปรายผลการวิเคราะห์}{25}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}ผลกระทบต่อภาคอุตสาหกรรม}{26}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}ข้อเสนอแนะเชิงนโยบายและการปฏิบัติ}{27}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}ข้อจำกัดและข้อควรระวัง}{29}{subsection.5.4}%
+\contentsline {section}{\numberline {6}สรุปและข้อเสนอแนะ}{30}{section.6}%
+\contentsline {section}{\numberline {A}ภาคผนวก ก: คำศัพท์เทคนิค}{32}{appendix.A}%
+\contentsline {section}{\numberline {B}ภาคผนวก ข: ตารางเปรียบเทียบเทคโนโลยี}{32}{appendix.B}%

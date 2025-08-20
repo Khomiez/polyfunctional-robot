@@ -3137,6 +3137,12 @@
     <bcf:citekey order="64" intorder="1">li2025finite</bcf:citekey>
     <bcf:citekey order="65" intorder="1">thuruthel2021survey</bcf:citekey>
     <bcf:citekey order="66" intorder="1">iso2025robotics</bcf:citekey>
+    <bcf:citekey order="67" intorder="1">mohammadi2023mobile</bcf:citekey>
+    <bcf:citekey order="68" intorder="1">krishnan2023deep</bcf:citekey>
+    <bcf:citekey order="69" intorder="1">krishnan2023deep</bcf:citekey>
+    <bcf:citekey order="70" intorder="1">vitolo2022mobile</bcf:citekey>
+    <bcf:citekey order="71" intorder="1">iso2025robotics</bcf:citekey>
+    <bcf:citekey order="72" intorder="1">thuruthel2021survey</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
