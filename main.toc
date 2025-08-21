@@ -1,46 +1,41 @@
 \xpg@aux {}{thai}
 \contentsline {section}{\numberline {1}บทนำ}{2}{section.1}%
-\contentsline {subsection}{\numberline {1.1}วัตถุประสงค์ของการศึกษา}{3}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}ขอบเขตการศึกษา}{3}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}คำจำกัดความสำคัญ}{3}{subsection.1.3}%
-\contentsline {subsection}{\numberline {1.4}ระเบียบวิธีการศึกษา}{4}{subsection.1.4}%
-\contentsline {subsection}{\numberline {1.5}ประโยชน์ที่คาดว่าจะได้รับ}{5}{subsection.1.5}%
-\contentsline {subsection}{\numberline {1.6}โครงสร้างของรายงาน}{5}{subsection.1.6}%
-\contentsline {section}{\numberline {2}การทบทวนวรรณกรรมที่เกี่ยวข้อง}{6}{section.2}%
-\contentsline {subsection}{\numberline {2.1}แนวคิดและนิยามหุ่นยนต์อเนกประสงค์}{6}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}สถาปัตยกรรมและการออกแบบระบบ}{8}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}เทคโนโลยีหลักและระบบควบคุม}{11}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}การประยุกต์ใช้ในภาคอุตสาหกรรม}{15}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}ช่องว่างความรู้และแนวทางการวิจัย}{18}{subsection.2.5}%
-\contentsline {section}{\numberline {3}ระเบียบวิธีวิจัย}{19}{section.3}%
-\contentsline {subsection}{\numberline {3.1}แนวทางการศึกษา}{20}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}การรวบรวมข้อมูล}{21}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}เกณฑ์การคัดเลือกแหล่งข้อมูล}{22}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}การวิเคราะห์และสังเคราะห์ข้อมูล}{23}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5}ข้อจำกัดของการศึกษา}{24}{subsection.3.5}%
-\contentsline {section}{\numberline {4}ผลการศึกษาและการวิเคราะห์}{26}{section.4}%
-\contentsline {subsection}{\numberline {4.1}การวิเคราะห์เชิงเปรียบเทียบเทคโนโลยี}{26}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}การประเมินประสิทธิภาพและข้อจำกัด}{27}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}แนวโน้มการพัฒนาและทิศทางอนาคต}{28}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}ความท้าทายและปัจจัยสำคัญ}{29}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}กรอบแนวคิดเชิงบูรณาการ}{31}{subsection.4.5}%
-\contentsline {section}{\numberline {5}การอภิปรายผล}{33}{section.5}%
-\contentsline {subsection}{\numberline {5.1}การอภิปรายผลการวิเคราะห์}{33}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}ผลกระทบต่อภาคอุตสาหกรรม}{34}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}ข้อเสนอแนะเชิงนโยบายและการปฏิบัติ}{35}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4}ข้อจำกัดและข้อควรระวัง}{36}{subsection.5.4}%
-\contentsline {section}{\numberline {6}สรุปและข้อเสนอแนะ}{38}{section.6}%
-\contentsline {subsection}{\numberline {6.1}สรุปผลการศึกษา}{38}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}ข้อเสนอแนะสำหรับการวิจัยต่อไป}{39}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}ข้อเสนอแนะสำหรับการนำไปประยุกต์ใช้}{40}{subsection.6.3}%
-\contentsline {subsection}{\numberline {6.4}คำสุดท้าย}{41}{subsection.6.4}%
-\contentsline {section}{\numberline {A}ภาคผนวก ก: คำศัพท์เทคนิค}{45}{appendix.A}%
-\contentsline {section}{\numberline {B}ภาคผนวก ข: ตารางเปรียบเทียบเทคโนโลยี}{47}{appendix.B}%
-\contentsline {subsection}{\numberline {B.1}ตารางที่ 1: การเปรียบเทียบประเภทหุ่นยนต์อเนกประสงค์}{47}{subsection.B.1}%
-\contentsline {subsection}{\numberline {B.2}ตารางที่ 2: การเปรียบเทียบเทคโนโลยีหลักของหุ่นยนต์อเนกประสงค์}{49}{subsection.B.2}%
-\contentsline {subsection}{\numberline {B.3}ตารางที่ 3: การเปรียบเทียบการประยุกต์ใช้ในภาคอุตสาหกรรม}{49}{subsection.B.3}%
-\contentsline {subsection}{\numberline {B.4}ตารางที่ 4: การวิเคราะห์ SWOT ของหุ่นยนต์อเนกประสงค์}{49}{subsection.B.4}%
-\contentsline {subsection}{\numberline {B.5}ตารางที่ 5: เมตริกการประเมินประสิทธิภาพ}{49}{subsection.B.5}%
-\contentsline {subsection}{\numberline {B.6}ตารางที่ 6: แผนการพัฒนาเทคโนโลยี (Technology Roadmap)}{51}{subsection.B.6}%
-\contentsline {subsection}{\numberline {B.7}ตารางที่ 7: เกณฑ์การประเมินและมาตรฐาน}{51}{subsection.B.7}%
-\contentsline {subsection}{\numberline {B.8}ตารางที่ 8: แนวทางการพัฒนาทรัพยากรมนุษย์}{51}{subsection.B.8}%
+\contentsline {subsection}{\numberline {1.1}วัตถุประสงค์ของการศึกษา}{4}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}ขอบเขตการศึกษา}{4}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}คำจำกัดความสำคัญ}{4}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}ระเบียบวิธีการศึกษา}{5}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}ประโยชน์ที่คาดว่าจะได้รับ}{6}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}โครงสร้างของรายงาน}{6}{subsection.1.6}%
+\contentsline {section}{\numberline {2}การทบทวนวรรณกรรมที่เกี่ยวข้อง}{8}{section.2}%
+\contentsline {subsection}{\numberline {2.1}แนวคิดและนิยามหุ่นยนต์อเนกประสงค์}{8}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}สถาปัตยกรรมและการออกแบบระบบ}{10}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}เทคโนโลยีหลักและระบบควบคุม}{13}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}การประยุกต์ใช้ในภาคอุตสาหกรรม}{17}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}ช่องว่างความรู้และแนวทางการวิจัย}{20}{subsection.2.5}%
+\contentsline {section}{\numberline {3}ระเบียบวิธีวิจัย}{22}{section.3}%
+\contentsline {subsection}{\numberline {3.1}แนวทางการศึกษา}{22}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}การรวบรวมข้อมูล}{23}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}เกณฑ์การคัดเลือกแหล่งข้อมูล}{24}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}การวิเคราะห์และสังเคราะห์ข้อมูล}{26}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}ข้อจำกัดของการศึกษา}{26}{subsection.3.5}%
+\contentsline {section}{\numberline {4}ผลการศึกษาและการวิเคราะห์}{29}{section.4}%
+\contentsline {subsection}{\numberline {4.1}การวิเคราะห์เชิงเปรียบเทียบเทคโนโลยี}{29}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}การประเมินประสิทธิภาพและข้อจำกัด}{30}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}แนวโน้มการพัฒนาและทิศทางอนาคต}{31}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}ความท้าทายและปัจจัยสำคัญ}{32}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}กรอบแนวคิดเชิงบูรณาการ}{33}{subsection.4.5}%
+\contentsline {section}{\numberline {5}การอภิปรายผล}{36}{section.5}%
+\contentsline {subsection}{\numberline {5.1}การอภิปรายผลการวิเคราะห์}{36}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}ผลกระทบต่อภาคอุตสาหกรรม}{37}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}ข้อเสนอแนะเชิงนโยบายและการปฏิบัติ}{38}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}ข้อจำกัดและข้อควรระวัง}{39}{subsection.5.4}%
+\contentsline {section}{\numberline {6}สรุปและข้อเสนอแนะ}{41}{section.6}%
+\contentsline {subsection}{\numberline {6.1}สรุปผลการศึกษา}{41}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}ข้อเสนอแนะสำหรับการวิจัยต่อไป}{42}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}ข้อเสนอแนะสำหรับการนำไปประยุกต์ใช้}{43}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}คำสุดท้าย}{44}{subsection.6.4}%
+\contentsline {section}{\numberline {A}ภาคผนวก ก: คำศัพท์เทคนิค}{49}{appendix.A}%
+\contentsline {section}{\numberline {B}ภาคผนวก ข: ตารางเปรียบเทียบเทคโนโลยี}{51}{appendix.B}%
+\contentsline {subsection}{\numberline {B.1}ตารางที่ 1: การเปรียบเทียบประเภทหุ่นยนต์อเนกประสงค์}{51}{subsection.B.1}%
+\contentsline {subsection}{\numberline {B.2}ตารางที่ 2: การเปรียบเทียบเทคโนโลยีหลักของหุ่นยนต์อเนกประสงค์}{52}{subsection.B.2}%
+\contentsline {subsection}{\numberline {B.3}ตารางที่ 3: การเปรียบเทียบการประยุกต์ใช้ในภาคอุตสาหกรรม}{52}{subsection.B.3}%
