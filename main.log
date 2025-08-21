@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.8.12)  21 AUG 2025 03:29
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.8.12)  21 AUG 2025 23:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1696,6 +1696,12 @@ LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
 [1]
 
 [2]
+Underfull \hbox (badness 1264) in paragraph at lines 223--224
+[]\TU/THSarabunNew(4)/b/n/16 วัตถุประสงค์ ที่ 2: ศึกษา เทคโนโลยี หลัก \TU/THSar
+abunNew(4)/m/n/16 โดย เฉพาะ กา รบู รณา การ เซ็นเซอร์ แบบ หลาย โหมด
+ []
+
+
 
 [3]
 
@@ -1716,12 +1722,6 @@ LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
 [11]
 
 [12]
-Underfull \hbox (badness 1077) in paragraph at lines 431--432
-[]\TU/THSarabunNew(4)/b/n/16 รายงาน การ ประชุม วิชาการ นานาชาติ: \TU/THSarabunN
-ew(4)/m/n/16 IEEE International Conference on Robotics and
- []
-
-
 
 [13]
 
@@ -1738,6 +1738,12 @@ ew(4)/m/n/16 IEEE International Conference on Robotics and
 [19]
 
 [20]
+Underfull \hbox (badness 1077) in paragraph at lines 512--513
+[]\TU/THSarabunNew(4)/b/n/16 รายงาน การ ประชุม วิชาการ นานาชาติ: \TU/THSarabunN
+ew(4)/m/n/16 IEEE International Conference on Robotics and
+ []
+
+
 
 [21]
 
@@ -1752,12 +1758,6 @@ ew(4)/m/n/16 IEEE International Conference on Robotics and
 [26]
 
 [27]
-Underfull \hbox (badness 1331) in paragraph at lines 742--743
-[]\TU/THSarabunNew(4)/b/n/16 ข้อ ควร ระวัง ด้าน ความ ปลอดภัย และ จริยธรรม \TU/T
-HSarabunNew(4)/m/n/16 การ ทำงาน ร่วม กัน ระหว่าง มนุษย์ และ หุ่น ยนต์
- []
-
-
 
 [28]
 
@@ -1770,145 +1770,168 @@ HSarabunNew(4)/m/n/16 การ ทำงาน ร่วม กัน ระห
 [32]
 
 [33]
-Missing character: There is no ż in font TH Sarabun New/OT:script=thai;language
-=dflt;mapping=tex-text;!
-
 
 [34]
-Underfull \hbox (badness 1852) in paragraph at lines 846--846
+
+[35]
+
+[36]
+Underfull \hbox (badness 1331) in paragraph at lines 821--822
+[]\TU/THSarabunNew(4)/b/n/16 ข้อ ควร ระวัง ด้าน ความ ปลอดภัย และ จริยธรรม \TU/T
+HSarabunNew(4)/m/n/16 การ ทำงาน ร่วม กัน ระหว่าง มนุษย์ และ หุ่น ยนต์
+ []
+
+
+
+[37]
+
+[38]
+
+[39]
+
+[40]
+
+[41]
+
+[42]
+Underfull \hbox (badness 1852) in paragraph at lines 925--925
 [][]\TU/THSarabunNew(4)/m/n/16 Li, H., & Li, Y. (2025). Finite element analysis
  and structural optimization design of
  []
 
 
 
-[35]
+[43]
 
-[36]
+[44]
 
-[37]
+[45]
+
+[46]
 LaTeX Font Info:    Font shape `TU/LatinModernMath(1)/m/n' will be
-(Font)              scaled to size 7.09978pt on input line 927.
+(Font)              scaled to size 7.09978pt on input line 1006.
 LaTeX Font Info:    Font shape `TU/LatinModernMath(1)/m/n' will be
-(Font)              scaled to size 3.94432pt on input line 927.
+(Font)              scaled to size 3.94432pt on input line 1006.
 LaTeX Font Info:    Font shape `TU/LatinModernMath(2)/m/n' will be
-(Font)              scaled to size 7.10046pt on input line 927.
+(Font)              scaled to size 7.10046pt on input line 1006.
 LaTeX Font Info:    Font shape `TU/LatinModernMath(2)/m/n' will be
-(Font)              scaled to size 3.9447pt on input line 927.
+(Font)              scaled to size 3.9447pt on input line 1006.
 LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
-(Font)              scaled to size 7.09909pt on input line 927.
+(Font)              scaled to size 7.09909pt on input line 1006.
 LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
-(Font)              scaled to size 3.94394pt on input line 927.
+(Font)              scaled to size 3.94394pt on input line 1006.
 
-Underfull \hbox (badness 10000) in paragraph at lines 931--931
+Underfull \hbox (badness 10000) in paragraph at lines 1010--1010
 []\TU/THSarabunNew(4)/m/n/9 กลไก หลัก สำหรับความ
  []
 
 
-Underfull \hbox (badness 1371) in paragraph at lines 931--931
+Underfull \hbox (badness 1371) in paragraph at lines 1010--1010
 []\TU/THSarabunNew(4)/m/n/9 การ ออกแบบ ฮาร์ดแวร์ ที่ ประกอบ จาก โมดูล
  []
 
 
-Underfull \hbox (badness 1502) in paragraph at lines 935--935
+Underfull \hbox (badness 1502) in paragraph at lines 1014--1014
 []\TU/THSarabunNew(4)/m/n/9 ความ เป็น อิสระ ใน การปรับ
  []
 
 
-Overfull \hbox (7.59705pt too wide) in paragraph at lines 927--950
+Overfull \hbox (7.59705pt too wide) in paragraph at lines 1006--1029
  [][] 
  []
 
 
 
-[38]
-Overfull \hbox (19.59703pt too wide) in paragraph at lines 961--978
+[47]
+
+[48]
+Overfull \hbox (19.59703pt too wide) in paragraph at lines 1040--1057
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 994--994
+Underfull \hbox (badness 10000) in paragraph at lines 1073--1073
 []\TU/THSarabunNew(4)/m/n/9 ความ ซับ ซ้อน ของ ผลิตภัณฑ์,
  []
 
 
-Underfull \hbox (badness 2103) in paragraph at lines 996--996
+Underfull \hbox (badness 2103) in paragraph at lines 1075--1075
 []\TU/THSarabunNew(4)/m/n/9 ความ หลาก หลาย ของ ผลิตภัณฑ์,
  []
 
 
-Overfull \hbox (48.04979pt too wide) in paragraph at lines 988--1005
+Overfull \hbox (48.04979pt too wide) in paragraph at lines 1067--1084
  [][] 
  []
 
 
-Underfull \hbox (badness 1237) in paragraph at lines 1077--1077
+Underfull \hbox (badness 1237) in paragraph at lines 1156--1156
 []\TU/THSarabunNew(4)/m/n/9 เวลา การ เปลี่ยน งาน (Task Switching
  []
 
 
-Underfull \hbox (badness 1527) in paragraph at lines 1079--1079
+Underfull \hbox (badness 1527) in paragraph at lines 1158--1158
 []\TU/THSarabunNew(4)/m/n/9 ความ แม่นยำ ใน การ ปฏิบัติ งาน (Task
  []
 
 
-Underfull \hbox (badness 3690) in paragraph at lines 1081--1081
+Underfull \hbox (badness 3690) in paragraph at lines 1160--1160
 []\TU/THSarabunNew(4)/m/n/9 ประสิทธิภาพ การ ใช้ พลังงาน (Energy
  []
 
 
-Overfull \hbox (19.59703pt too wide) in paragraph at lines 1073--1094
+Overfull \hbox (19.59703pt too wide) in paragraph at lines 1152--1173
  [][] 
  []
 
 
 
-[39
+[49
 
 ]
 
-[40]
-Underfull \hbox (badness 1092) in paragraph at lines 1113--1115
+[50]
+Underfull \hbox (badness 1092) in paragraph at lines 1192--1194
 []\TU/THSarabunNew(4)/m/n/9 • โมเดล พื้น ฐาน AI • วัสดุ อัจฉริยะ •
  []
 
 
-Underfull \hbox (badness 1354) in paragraph at lines 1125--1127
+Underfull \hbox (badness 1354) in paragraph at lines 1204--1206
 []\TU/THSarabunNew(4)/m/n/9 • การ ประมวล ผล เชิง ชีวภาพ • นาโน
  []
 
 
-Overfull \hbox (33.82341pt too wide) in paragraph at lines 1103--1132
+Overfull \hbox (33.82341pt too wide) in paragraph at lines 1182--1211
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1144--1144
+Underfull \hbox (badness 10000) in paragraph at lines 1223--1223
 []\TU/THSarabunNew(4)/m/n/9 International Organization for
  []
 
 
-Underfull \hbox (badness 5245) in paragraph at lines 1156--1156
+Underfull \hbox (badness 5245) in paragraph at lines 1235--1235
 []\TU/THSarabunNew(4)/m/n/9 Institute of Electrical and Electronics
  []
 
 
-Overfull \hbox (7.59705pt too wide) in paragraph at lines 1140--1169
+Overfull \hbox (7.59705pt too wide) in paragraph at lines 1219--1248
  [][] 
  []
 
 
-Overfull \hbox (19.59703pt too wide) in paragraph at lines 1177--1207
+Overfull \hbox (19.59703pt too wide) in paragraph at lines 1256--1286
  [][] 
  []
 
 
 
-[41
+[51
 
 ]
 
-[42] (main.aux)
+[52] (main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-20>
@@ -1920,12 +1943,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25903 strings out of 403250
- 494477 string characters out of 5460888
- 1657021 words of memory out of 5000000
- 54033 multiletter control sequences out of 15000+600000
- 631492 words of font info for 132 fonts, out of 8000000 for 9000
+ 25979 strings out of 403250
+ 496864 string characters out of 5460888
+ 1657683 words of memory out of 5000000
+ 54103 multiletter control sequences out of 15000+600000
+ 631540 words of font info for 138 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 86i,11n,114p,726b,7215s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 86i,11n,114p,1116b,7215s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (47 pages).
+Output written on main.pdf (57 pages).

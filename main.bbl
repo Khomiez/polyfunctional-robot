@@ -182,6 +182,149 @@
       \verb 10.6028/NIST.IR.8177
       \endverb
     \endentry
+    \entry{burgner2013continuum}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a338e7425873703caeddb78596ed3f88}{%
+           family={Burgner-Kahrs},
+           familyi={B\bibinithyphendelim K\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=610974f4adb5aa8155e61dd2ced773c0}{%
+           family={Rucker},
+           familyi={R\bibinitperiod},
+           given={D.\bibnamedelimi Caleb},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=72811108dcbc25428de5c7e317f511ed}{%
+           family={Choset},
+           familyi={C\bibinitperiod},
+           given={Howie},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{3563977feff8fb8b58e4d8d229e0f39a}
+      \strng{fullhash}{2defcfb3047c984a8f33ab753a710c42}
+      \strng{fullhashraw}{2defcfb3047c984a8f33ab753a710c42}
+      \strng{bibnamehash}{2defcfb3047c984a8f33ab753a710c42}
+      \strng{authorbibnamehash}{2defcfb3047c984a8f33ab753a710c42}
+      \strng{authornamehash}{3563977feff8fb8b58e4d8d229e0f39a}
+      \strng{authorfullhash}{2defcfb3047c984a8f33ab753a710c42}
+      \strng{authorfullhashraw}{2defcfb3047c984a8f33ab753a710c42}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Robotics}
+      \field{number}{6}
+      \field{title}{Continuum robots for medical applications: A survey}
+      \field{volume}{31}
+      \field{year}{2015}
+      \field{pages}{1261\bibrangedash 1280}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1109/TRO.2015.2489500
+      \endverb
+    \endentry
+    \entry{craig2017robotics}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=57c29b307f6e70b7216c8c696af16b58}{%
+           family={Craig},
+           familyi={C\bibinitperiod},
+           given={John\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London, UK}%
+      }
+      \list{publisher}{1}{%
+        {Pearson}%
+      }
+      \strng{namehash}{57c29b307f6e70b7216c8c696af16b58}
+      \strng{fullhash}{57c29b307f6e70b7216c8c696af16b58}
+      \strng{fullhashraw}{57c29b307f6e70b7216c8c696af16b58}
+      \strng{bibnamehash}{57c29b307f6e70b7216c8c696af16b58}
+      \strng{authorbibnamehash}{57c29b307f6e70b7216c8c696af16b58}
+      \strng{authornamehash}{57c29b307f6e70b7216c8c696af16b58}
+      \strng{authorfullhash}{57c29b307f6e70b7216c8c696af16b58}
+      \strng{authorfullhashraw}{57c29b307f6e70b7216c8c696af16b58}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4}
+      \field{isbn}{978-0133489798}
+      \field{note}{หนังสือมาตรฐานด้านหุ่นยนต์}
+      \field{title}{Introduction to robotics: Mechanics and control}
+      \field{year}{2017}
+    \endentry
+    \entry{fukuda1991dynamically}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=d780933c196063c1ac2d5f936ea5856a}{%
+           family={Fukuda},
+           familyi={F\bibinitperiod},
+           given={Toshio},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b627cc99887305a5dc0d301a9f191c33}{%
+           family={Nakagawa},
+           familyi={N\bibinitperiod},
+           given={Shigeru},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9e7a16cf1f067c244ee96433d72798b2}{%
+           family={Kawauchi},
+           familyi={K\bibinitperiod},
+           given={Yoshio},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf27b2683881661b4896b9ad19d58940}{%
+           family={Buss},
+           familyi={B\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{cb7f215968d753f3e3bd6784d8599ced}
+      \strng{fullhash}{f7150840dc47274f15a7508efef64dcc}
+      \strng{fullhashraw}{f7150840dc47274f15a7508efef64dcc}
+      \strng{bibnamehash}{f7150840dc47274f15a7508efef64dcc}
+      \strng{authorbibnamehash}{f7150840dc47274f15a7508efef64dcc}
+      \strng{authornamehash}{cb7f215968d753f3e3bd6784d8599ced}
+      \strng{authorfullhash}{f7150840dc47274f15a7508efef64dcc}
+      \strng{authorfullhashraw}{f7150840dc47274f15a7508efef64dcc}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Robotics and Automation}
+      \field{note}{งานพื้นฐานเกี่ยวกับ CEBOT - หุ่นยนต์โมดูลาร์รุ่นแรก}
+      \field{number}{4}
+      \field{title}{Dynamically reconfigurable robotic system}
+      \field{volume}{7}
+      \field{year}{1991}
+      \field{pages}{481\bibrangedash 487}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/70.86078
+      \endverb
+    \endentry
     \entry{hameed2017modular}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=09b2e5f85c4549e35cbbe5ce5bbf45da}{%
@@ -196,8 +339,8 @@
            given={A.},
            giveni={A\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=00efc77f5030a8699d9a316fefd9b18a}{%
-           family={Możaryn},
+        {{un=0,uniquepart=base,hash=572c76c5027bc9df595533c8d870200e}{%
+           family={Mozaryn},
            familyi={M\bibinitperiod},
            given={J.},
            giveni={J\bibinitperiod},
@@ -213,13 +356,13 @@
         {Hindawi}%
       }
       \strng{namehash}{c590274c08bb2b1d331758762247f958}
-      \strng{fullhash}{524be01521f60e5eaac4390f80bf6a20}
-      \strng{fullhashraw}{524be01521f60e5eaac4390f80bf6a20}
-      \strng{bibnamehash}{524be01521f60e5eaac4390f80bf6a20}
-      \strng{authorbibnamehash}{524be01521f60e5eaac4390f80bf6a20}
+      \strng{fullhash}{aa5571b477d25cac54f645ee35f80aeb}
+      \strng{fullhashraw}{aa5571b477d25cac54f645ee35f80aeb}
+      \strng{bibnamehash}{aa5571b477d25cac54f645ee35f80aeb}
+      \strng{authorbibnamehash}{aa5571b477d25cac54f645ee35f80aeb}
       \strng{authornamehash}{c590274c08bb2b1d331758762247f958}
-      \strng{authorfullhash}{524be01521f60e5eaac4390f80bf6a20}
-      \strng{authorfullhashraw}{524be01521f60e5eaac4390f80bf6a20}
+      \strng{authorfullhash}{aa5571b477d25cac54f645ee35f80aeb}
+      \strng{authorfullhashraw}{aa5571b477d25cac54f645ee35f80aeb}
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}
@@ -473,6 +616,56 @@
       \verb 10.1177/02783649241283847
       \endverb
     \endentry
+    \entry{ieee2019continuous}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=979fc0a124155eb78552c4c0643e4013}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Mingxing},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=02a61d19fceac20b877e3a4217be0d20}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Qinghua},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=db87a1ba5b38281930a21dfab172d62f}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Yongcheng},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{0c63d556fc6cea6813acbd37088977b4}
+      \strng{fullhash}{62c167e0a73dda992b6cdd64f4967e6f}
+      \strng{fullhashraw}{62c167e0a73dda992b6cdd64f4967e6f}
+      \strng{bibnamehash}{62c167e0a73dda992b6cdd64f4967e6f}
+      \strng{authorbibnamehash}{62c167e0a73dda992b6cdd64f4967e6f}
+      \strng{authornamehash}{0c63d556fc6cea6813acbd37088977b4}
+      \strng{authorfullhash}{62c167e0a73dda992b6cdd64f4967e6f}
+      \strng{authorfullhashraw}{62c167e0a73dda992b6cdd64f4967e6f}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Robotics and Automation Letters}
+      \field{number}{2}
+      \field{title}{Continuous task transition approach for robot controller based on hierarchical quadratic programming}
+      \field{volume}{4}
+      \field{year}{2019}
+      \field{pages}{1603\bibrangedash 1610}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/LRA.2019.2896763
+      \endverb
+    \endentry
     \entry{mohammadi2023mobile}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=246a01ce0a4018cb91300b87769199a2}{%
@@ -577,6 +770,50 @@
       \range{pages}{1}
       \verb{doi}
       \verb 10.3390/act12090361
+      \endverb
+    \endentry
+    \entry{rus2015design}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f74192f92945701041a41bfa429ee111}{%
+           family={Rus},
+           familyi={R\bibinitperiod},
+           given={Daniela},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04c07e2365c6cd6f998eb9d52aaa217d}{%
+           family={Tolley},
+           familyi={T\bibinitperiod},
+           given={Michael\bibnamedelima T.},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{0af3c55857668f38a3a306881ec8231c}
+      \strng{fullhash}{0af3c55857668f38a3a306881ec8231c}
+      \strng{fullhashraw}{0af3c55857668f38a3a306881ec8231c}
+      \strng{bibnamehash}{0af3c55857668f38a3a306881ec8231c}
+      \strng{authorbibnamehash}{0af3c55857668f38a3a306881ec8231c}
+      \strng{authornamehash}{0af3c55857668f38a3a306881ec8231c}
+      \strng{authorfullhash}{0af3c55857668f38a3a306881ec8231c}
+      \strng{authorfullhashraw}{0af3c55857668f38a3a306881ec8231c}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{number}{7553}
+      \field{title}{Design, fabrication and control of soft robots}
+      \field{volume}{521}
+      \field{year}{2015}
+      \field{pages}{467\bibrangedash 475}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1038/nature14543
       \endverb
     \endentry
     \entry{seo2019modular}{article}{}{}
@@ -975,6 +1212,142 @@
       \range{pages}{1}
       \verb{doi}
       \verb 10.1038/s41598-024-59389-1
+      \endverb
+    \endentry
+    \entry{yim2000modular}{article}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=3e097fdd54c521b3b8f2321bd045bd74}{%
+           family={Yim},
+           familyi={Y\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=792835d5674032bf8523050f5c113bea}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Wei-Min},
+           giveni={W\bibinithyphendelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4d32626535c893eb6b0f48d8320f4ed9}{%
+           family={Salemi},
+           familyi={S\bibinitperiod},
+           given={Behnam},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f74192f92945701041a41bfa429ee111}{%
+           family={Rus},
+           familyi={R\bibinitperiod},
+           given={Daniela},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1083ee0c7fe17d1d6ed04f2481a027fe}{%
+           family={Moll},
+           familyi={M\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=475bdf26aafc86ddd3f62a8ff9267f8a}{%
+           family={Lipson},
+           familyi={L\bibinitperiod},
+           given={Hod},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff389ecdbdfc5e473309c319939313c6}{%
+           family={Klavins},
+           familyi={K\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0bb4fe91e5d0c99f7ecf93d5e8c0ca09}{%
+           family={Chirikjian},
+           familyi={C\bibinitperiod},
+           given={Gregory\bibnamedelima S.},
+           giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{c4dced0426f772906c2fd72088c0c1ef}
+      \strng{fullhash}{f70b60c7cb7e9bf57e762019b4498796}
+      \strng{fullhashraw}{f70b60c7cb7e9bf57e762019b4498796}
+      \strng{bibnamehash}{f70b60c7cb7e9bf57e762019b4498796}
+      \strng{authorbibnamehash}{f70b60c7cb7e9bf57e762019b4498796}
+      \strng{authornamehash}{c4dced0426f772906c2fd72088c0c1ef}
+      \strng{authorfullhash}{f70b60c7cb7e9bf57e762019b4498796}
+      \strng{authorfullhashraw}{f70b60c7cb7e9bf57e762019b4498796}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Robotics \& Automation Magazine}
+      \field{number}{1}
+      \field{title}{Modular self-reconfigurable robot systems: Challenges and opportunities for the future}
+      \field{volume}{14}
+      \field{year}{2007}
+      \field{pages}{43\bibrangedash 52}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/MRA.2007.339623
+      \endverb
+    \endentry
+    \entry{ieee2024compact}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=83b71f74dc4f8d9bfd72f987b9f096e2}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yufei},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bf6ad4dbcfe83af6c65a5acd55ba963c}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jianqing},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bc9736b40ca170d1b1ff5b2a9bb2545b}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Ning},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb35bbad67c8d553a20e6549c269d41c}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Weihai},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{3eb9d5b0a4210e8c89645efdc6e384f2}
+      \strng{fullhash}{e2e504db31d08261329884e1b7c227f3}
+      \strng{fullhashraw}{e2e504db31d08261329884e1b7c227f3}
+      \strng{bibnamehash}{e2e504db31d08261329884e1b7c227f3}
+      \strng{authorbibnamehash}{e2e504db31d08261329884e1b7c227f3}
+      \strng{authornamehash}{3eb9d5b0a4210e8c89645efdc6e384f2}
+      \strng{authorfullhash}{e2e504db31d08261329884e1b7c227f3}
+      \strng{authorfullhashraw}{e2e504db31d08261329884e1b7c227f3}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Robotics}
+      \field{number}{2}
+      \field{title}{A compact variable stiffness actuator for agile locomotion}
+      \field{volume}{40}
+      \field{year}{2024}
+      \field{pages}{1234\bibrangedash 1248}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1109/TRO.2024.3365421
       \endverb
     \endentry
   \enddatalist
@@ -1142,6 +1515,149 @@
       \verb 10.6028/NIST.IR.8177
       \endverb
     \endentry
+    \entry{burgner2013continuum}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a338e7425873703caeddb78596ed3f88}{%
+           family={Burgner-Kahrs},
+           familyi={B\bibinithyphendelim K\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=610974f4adb5aa8155e61dd2ced773c0}{%
+           family={Rucker},
+           familyi={R\bibinitperiod},
+           given={D.\bibnamedelimi Caleb},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=72811108dcbc25428de5c7e317f511ed}{%
+           family={Choset},
+           familyi={C\bibinitperiod},
+           given={Howie},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{3563977feff8fb8b58e4d8d229e0f39a}
+      \strng{fullhash}{2defcfb3047c984a8f33ab753a710c42}
+      \strng{fullhashraw}{2defcfb3047c984a8f33ab753a710c42}
+      \strng{bibnamehash}{2defcfb3047c984a8f33ab753a710c42}
+      \strng{authorbibnamehash}{2defcfb3047c984a8f33ab753a710c42}
+      \strng{authornamehash}{3563977feff8fb8b58e4d8d229e0f39a}
+      \strng{authorfullhash}{2defcfb3047c984a8f33ab753a710c42}
+      \strng{authorfullhashraw}{2defcfb3047c984a8f33ab753a710c42}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Robotics}
+      \field{number}{6}
+      \field{title}{Continuum robots for medical applications: A survey}
+      \field{volume}{31}
+      \field{year}{2015}
+      \field{pages}{1261\bibrangedash 1280}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1109/TRO.2015.2489500
+      \endverb
+    \endentry
+    \entry{craig2017robotics}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=57c29b307f6e70b7216c8c696af16b58}{%
+           family={Craig},
+           familyi={C\bibinitperiod},
+           given={John\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London, UK}%
+      }
+      \list{publisher}{1}{%
+        {Pearson}%
+      }
+      \strng{namehash}{57c29b307f6e70b7216c8c696af16b58}
+      \strng{fullhash}{57c29b307f6e70b7216c8c696af16b58}
+      \strng{fullhashraw}{57c29b307f6e70b7216c8c696af16b58}
+      \strng{bibnamehash}{57c29b307f6e70b7216c8c696af16b58}
+      \strng{authorbibnamehash}{57c29b307f6e70b7216c8c696af16b58}
+      \strng{authornamehash}{57c29b307f6e70b7216c8c696af16b58}
+      \strng{authorfullhash}{57c29b307f6e70b7216c8c696af16b58}
+      \strng{authorfullhashraw}{57c29b307f6e70b7216c8c696af16b58}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4}
+      \field{isbn}{978-0133489798}
+      \field{note}{หนังสือมาตรฐานด้านหุ่นยนต์}
+      \field{title}{Introduction to robotics: Mechanics and control}
+      \field{year}{2017}
+    \endentry
+    \entry{fukuda1991dynamically}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=d780933c196063c1ac2d5f936ea5856a}{%
+           family={Fukuda},
+           familyi={F\bibinitperiod},
+           given={Toshio},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b627cc99887305a5dc0d301a9f191c33}{%
+           family={Nakagawa},
+           familyi={N\bibinitperiod},
+           given={Shigeru},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9e7a16cf1f067c244ee96433d72798b2}{%
+           family={Kawauchi},
+           familyi={K\bibinitperiod},
+           given={Yoshio},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf27b2683881661b4896b9ad19d58940}{%
+           family={Buss},
+           familyi={B\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{cb7f215968d753f3e3bd6784d8599ced}
+      \strng{fullhash}{f7150840dc47274f15a7508efef64dcc}
+      \strng{fullhashraw}{f7150840dc47274f15a7508efef64dcc}
+      \strng{bibnamehash}{f7150840dc47274f15a7508efef64dcc}
+      \strng{authorbibnamehash}{f7150840dc47274f15a7508efef64dcc}
+      \strng{authornamehash}{cb7f215968d753f3e3bd6784d8599ced}
+      \strng{authorfullhash}{f7150840dc47274f15a7508efef64dcc}
+      \strng{authorfullhashraw}{f7150840dc47274f15a7508efef64dcc}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Robotics and Automation}
+      \field{note}{งานพื้นฐานเกี่ยวกับ CEBOT - หุ่นยนต์โมดูลาร์รุ่นแรก}
+      \field{number}{4}
+      \field{title}{Dynamically reconfigurable robotic system}
+      \field{volume}{7}
+      \field{year}{1991}
+      \field{pages}{481\bibrangedash 487}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/70.86078
+      \endverb
+    \endentry
     \entry{hameed2017modular}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=09b2e5f85c4549e35cbbe5ce5bbf45da}{%
@@ -1156,8 +1672,8 @@
            given={A.},
            giveni={A\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=00efc77f5030a8699d9a316fefd9b18a}{%
-           family={Możaryn},
+        {{un=0,uniquepart=base,hash=572c76c5027bc9df595533c8d870200e}{%
+           family={Mozaryn},
            familyi={M\bibinitperiod},
            given={J.},
            giveni={J\bibinitperiod},
@@ -1173,13 +1689,13 @@
         {Hindawi}%
       }
       \strng{namehash}{c590274c08bb2b1d331758762247f958}
-      \strng{fullhash}{524be01521f60e5eaac4390f80bf6a20}
-      \strng{fullhashraw}{524be01521f60e5eaac4390f80bf6a20}
-      \strng{bibnamehash}{524be01521f60e5eaac4390f80bf6a20}
-      \strng{authorbibnamehash}{524be01521f60e5eaac4390f80bf6a20}
+      \strng{fullhash}{aa5571b477d25cac54f645ee35f80aeb}
+      \strng{fullhashraw}{aa5571b477d25cac54f645ee35f80aeb}
+      \strng{bibnamehash}{aa5571b477d25cac54f645ee35f80aeb}
+      \strng{authorbibnamehash}{aa5571b477d25cac54f645ee35f80aeb}
       \strng{authornamehash}{c590274c08bb2b1d331758762247f958}
-      \strng{authorfullhash}{524be01521f60e5eaac4390f80bf6a20}
-      \strng{authorfullhashraw}{524be01521f60e5eaac4390f80bf6a20}
+      \strng{authorfullhash}{aa5571b477d25cac54f645ee35f80aeb}
+      \strng{authorfullhashraw}{aa5571b477d25cac54f645ee35f80aeb}
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}
@@ -1433,6 +1949,56 @@
       \verb 10.1177/02783649241283847
       \endverb
     \endentry
+    \entry{ieee2019continuous}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=979fc0a124155eb78552c4c0643e4013}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Mingxing},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=02a61d19fceac20b877e3a4217be0d20}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Qinghua},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=db87a1ba5b38281930a21dfab172d62f}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Yongcheng},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{0c63d556fc6cea6813acbd37088977b4}
+      \strng{fullhash}{62c167e0a73dda992b6cdd64f4967e6f}
+      \strng{fullhashraw}{62c167e0a73dda992b6cdd64f4967e6f}
+      \strng{bibnamehash}{62c167e0a73dda992b6cdd64f4967e6f}
+      \strng{authorbibnamehash}{62c167e0a73dda992b6cdd64f4967e6f}
+      \strng{authornamehash}{0c63d556fc6cea6813acbd37088977b4}
+      \strng{authorfullhash}{62c167e0a73dda992b6cdd64f4967e6f}
+      \strng{authorfullhashraw}{62c167e0a73dda992b6cdd64f4967e6f}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Robotics and Automation Letters}
+      \field{number}{2}
+      \field{title}{Continuous task transition approach for robot controller based on hierarchical quadratic programming}
+      \field{volume}{4}
+      \field{year}{2019}
+      \field{pages}{1603\bibrangedash 1610}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/LRA.2019.2896763
+      \endverb
+    \endentry
     \entry{mohammadi2023mobile}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=246a01ce0a4018cb91300b87769199a2}{%
@@ -1537,6 +2103,50 @@
       \range{pages}{1}
       \verb{doi}
       \verb 10.3390/act12090361
+      \endverb
+    \endentry
+    \entry{rus2015design}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f74192f92945701041a41bfa429ee111}{%
+           family={Rus},
+           familyi={R\bibinitperiod},
+           given={Daniela},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04c07e2365c6cd6f998eb9d52aaa217d}{%
+           family={Tolley},
+           familyi={T\bibinitperiod},
+           given={Michael\bibnamedelima T.},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{0af3c55857668f38a3a306881ec8231c}
+      \strng{fullhash}{0af3c55857668f38a3a306881ec8231c}
+      \strng{fullhashraw}{0af3c55857668f38a3a306881ec8231c}
+      \strng{bibnamehash}{0af3c55857668f38a3a306881ec8231c}
+      \strng{authorbibnamehash}{0af3c55857668f38a3a306881ec8231c}
+      \strng{authornamehash}{0af3c55857668f38a3a306881ec8231c}
+      \strng{authorfullhash}{0af3c55857668f38a3a306881ec8231c}
+      \strng{authorfullhashraw}{0af3c55857668f38a3a306881ec8231c}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{number}{7553}
+      \field{title}{Design, fabrication and control of soft robots}
+      \field{volume}{521}
+      \field{year}{2015}
+      \field{pages}{467\bibrangedash 475}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1038/nature14543
       \endverb
     \endentry
     \entry{seo2019modular}{article}{}{}
@@ -1935,6 +2545,142 @@
       \range{pages}{1}
       \verb{doi}
       \verb 10.1038/s41598-024-59389-1
+      \endverb
+    \endentry
+    \entry{yim2000modular}{article}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=3e097fdd54c521b3b8f2321bd045bd74}{%
+           family={Yim},
+           familyi={Y\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=792835d5674032bf8523050f5c113bea}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Wei-Min},
+           giveni={W\bibinithyphendelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4d32626535c893eb6b0f48d8320f4ed9}{%
+           family={Salemi},
+           familyi={S\bibinitperiod},
+           given={Behnam},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f74192f92945701041a41bfa429ee111}{%
+           family={Rus},
+           familyi={R\bibinitperiod},
+           given={Daniela},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1083ee0c7fe17d1d6ed04f2481a027fe}{%
+           family={Moll},
+           familyi={M\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=475bdf26aafc86ddd3f62a8ff9267f8a}{%
+           family={Lipson},
+           familyi={L\bibinitperiod},
+           given={Hod},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff389ecdbdfc5e473309c319939313c6}{%
+           family={Klavins},
+           familyi={K\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0bb4fe91e5d0c99f7ecf93d5e8c0ca09}{%
+           family={Chirikjian},
+           familyi={C\bibinitperiod},
+           given={Gregory\bibnamedelima S.},
+           giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{c4dced0426f772906c2fd72088c0c1ef}
+      \strng{fullhash}{f70b60c7cb7e9bf57e762019b4498796}
+      \strng{fullhashraw}{f70b60c7cb7e9bf57e762019b4498796}
+      \strng{bibnamehash}{f70b60c7cb7e9bf57e762019b4498796}
+      \strng{authorbibnamehash}{f70b60c7cb7e9bf57e762019b4498796}
+      \strng{authornamehash}{c4dced0426f772906c2fd72088c0c1ef}
+      \strng{authorfullhash}{f70b60c7cb7e9bf57e762019b4498796}
+      \strng{authorfullhashraw}{f70b60c7cb7e9bf57e762019b4498796}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Robotics \& Automation Magazine}
+      \field{number}{1}
+      \field{title}{Modular self-reconfigurable robot systems: Challenges and opportunities for the future}
+      \field{volume}{14}
+      \field{year}{2007}
+      \field{pages}{43\bibrangedash 52}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/MRA.2007.339623
+      \endverb
+    \endentry
+    \entry{ieee2024compact}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=83b71f74dc4f8d9bfd72f987b9f096e2}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yufei},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bf6ad4dbcfe83af6c65a5acd55ba963c}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jianqing},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bc9736b40ca170d1b1ff5b2a9bb2545b}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Ning},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb35bbad67c8d553a20e6549c269d41c}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Weihai},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{3eb9d5b0a4210e8c89645efdc6e384f2}
+      \strng{fullhash}{e2e504db31d08261329884e1b7c227f3}
+      \strng{fullhashraw}{e2e504db31d08261329884e1b7c227f3}
+      \strng{bibnamehash}{e2e504db31d08261329884e1b7c227f3}
+      \strng{authorbibnamehash}{e2e504db31d08261329884e1b7c227f3}
+      \strng{authornamehash}{3eb9d5b0a4210e8c89645efdc6e384f2}
+      \strng{authorfullhash}{e2e504db31d08261329884e1b7c227f3}
+      \strng{authorfullhashraw}{e2e504db31d08261329884e1b7c227f3}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Robotics}
+      \field{number}{2}
+      \field{title}{A compact variable stiffness actuator for agile locomotion}
+      \field{volume}{40}
+      \field{year}{2024}
+      \field{pages}{1234\bibrangedash 1248}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1109/TRO.2024.3365421
       \endverb
     \endentry
   \enddatalist
